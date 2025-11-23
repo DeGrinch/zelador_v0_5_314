@@ -1,18 +1,10 @@
 [
   {
     "Name": "THE DEEPS - NORTH",
-    "Pos": [
-      9254.62207,
-      30.974934,
-      13861.567383
-    ],
+    "Pos": [9254.62207, 30.974934, 13861.567383],
     "Icon": "BasicMap\\gui\\images\\marker.paa",
     "Is3DMarker": 1,
-    "Colour": [
-      255,
-      0,
-      0
-    ],
+    "Colour": [255, 0, 0],
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
@@ -24,18 +16,10 @@
   },
   {
     "Name": "THE DEEPS - NORTH EAST",
-    "Pos": [
-      11648.844727,
-      30.950081,
-      14145.119141
-    ],
+    "Pos": [11648.844727, 30.950081, 14145.119141],
     "Icon": "BasicMap\\gui\\images\\marker.paa",
     "Is3DMarker": 1,
-    "Colour": [
-      170,
-      0,
-      85
-    ],
+    "Colour": [170, 0, 85],
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
@@ -47,18 +31,10 @@
   },
   {
     "Name": "THE DEEPS - EAST",
-    "Pos": [
-      11517.072266,
-      30.400066,
-      11328.672852
-    ],
+    "Pos": [11517.072266, 30.400066, 11328.672852],
     "Icon": "BasicMap\\gui\\images\\marker.paa",
     "Is3DMarker": 1,
-    "Colour": [
-      0,
-      0,
-      255
-    ],
+    "Colour": [0, 0, 255],
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
@@ -70,18 +46,10 @@
   },
   {
     "Name": "THE DEEPS - SOUTH EAST ONE",
-    "Pos": [
-      10508.84082,
-      30.950005,
-      9083.124023
-    ],
+    "Pos": [10508.84082, 30.950005, 9083.124023],
     "Icon": "BasicMap\\gui\\images\\marker.paa",
     "Is3DMarker": 1,
-    "Colour": [
-      0,
-      0,
-      170
-    ],
+    "Colour": [0, 0, 170],
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
@@ -93,18 +61,10 @@
   },
   {
     "Name": "THE DEEPS - SOUTH EAST TWO",
-    "Pos": [
-      8714.417969,
-      30.694894,
-      8134.311523
-    ],
+    "Pos": [8714.417969, 30.694894, 8134.311523],
     "Icon": "BasicMap\\gui\\images\\marker.paa",
     "Is3DMarker": 1,
-    "Colour": [
-      64,
-      0,
-      128
-    ],
+    "Colour": [64, 0, 128],
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
@@ -116,18 +76,10 @@
   },
   {
     "Name": "THE DEEPS - SOUTH",
-    "Pos": [
-      6655.539551,
-      30.974895,
-      7443.020508
-    ],
+    "Pos": [6655.539551, 30.974895, 7443.020508],
     "Icon": "BasicMap\\gui\\images\\marker.paa",
     "Is3DMarker": 1,
-    "Colour": [
-      128,
-      0,
-      128
-    ],
+    "Colour": [128, 0, 128],
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
@@ -139,18 +91,10 @@
   },
   {
     "Name": "THE DEEPS - SOUTH WEST ONE",
-    "Pos": [
-      6645.291504,
-      30.974914,
-      8667.417969
-    ],
+    "Pos": [6645.291504, 30.974914, 8667.417969],
     "Icon": "BasicMap\\gui\\images\\marker.paa",
     "Is3DMarker": 1,
-    "Colour": [
-      96,
-      32,
-      64
-    ],
+    "Colour": [96, 32, 64],
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
@@ -162,18 +106,10 @@
   },
   {
     "Name": "THE DEEPS - SOUTH WEST TWO",
-    "Pos": [
-      6335.032715,
-      30.974891,
-      10383.825195
-    ],
+    "Pos": [6335.032715, 30.974891, 10383.825195],
     "Icon": "BasicMap\\gui\\images\\marker.paa",
     "Is3DMarker": 1,
-    "Colour": [
-      32,
-      96,
-      32
-    ],
+    "Colour": [32, 96, 32],
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
@@ -185,18 +121,10 @@
   },
   {
     "Name": "THE DEEPS - WEST",
-    "Pos": [
-      6213.476074,
-      30.974953,
-      12011.37207
-    ],
+    "Pos": [6213.476074, 30.974953, 12011.37207],
     "Icon": "BasicMap\\gui\\images\\marker.paa",
     "Is3DMarker": 1,
-    "Colour": [
-      0,
-      255,
-      0
-    ],
+    "Colour": [0, 255, 0],
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
@@ -208,18 +136,10 @@
   },
   {
     "Name": "THE DEEPS - NORTH WEST",
-    "Pos": [
-      6370.664063,
-      30.974939,
-      14576.102539
-    ],
+    "Pos": [6370.664063, 30.974939, 14576.102539],
     "Icon": "BasicMap\\gui\\images\\marker.paa",
     "Is3DMarker": 1,
-    "Colour": [
-      128,
-      128,
-      0
-    ],
+    "Colour": [128, 128, 0],
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
@@ -250,7 +170,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 2",
@@ -273,7 +193,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 3",
@@ -296,7 +216,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 4",
@@ -319,7 +239,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 5",
@@ -342,7 +262,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 6",
@@ -365,7 +285,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 7",
@@ -388,7 +308,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 8",
@@ -411,7 +331,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 9",
@@ -434,7 +354,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 10",
@@ -457,7 +377,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 11",
@@ -480,7 +400,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 12",
@@ -503,7 +423,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 13",
@@ -526,7 +446,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 14",
@@ -549,7 +469,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 15",
@@ -572,7 +492,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 16",
@@ -595,7 +515,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 17",
@@ -618,7 +538,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 18",
@@ -641,7 +561,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 19",
@@ -664,7 +584,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 20",
@@ -687,7 +607,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 21",
@@ -710,7 +630,7 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   },
   {
     "Name": "The Deeps - Gassed Zone 22",
@@ -733,6 +653,6 @@
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
+    "Group": "BASICMAP_GASSED"
   }
 ]
