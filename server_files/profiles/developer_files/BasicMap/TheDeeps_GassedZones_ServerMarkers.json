@@ -6,7 +6,7 @@
       6.939322,
       13835.072266
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -16,7 +16,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -29,7 +29,7 @@
       2.400051,
       14526.136719
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -39,7 +39,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -52,7 +52,7 @@
       2.400032,
       14638.981445
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -62,7 +62,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -75,7 +75,7 @@
       2.479959,
       14802.445313
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -85,7 +85,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -98,7 +98,7 @@
       2.519885,
       14965.541016
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -108,7 +108,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -121,7 +121,7 @@
       2.399998,
       15139.772461
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -131,7 +131,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -144,7 +144,7 @@
       2.399941,
       15224.323242
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -154,7 +154,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -167,7 +167,7 @@
       2.400062,
       15250.202148
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -177,7 +177,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -190,7 +190,7 @@
       2.424917,
       15291.858398
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -200,7 +200,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -213,7 +213,7 @@
       2.400066,
       15286.188477
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -223,7 +223,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -236,7 +236,7 @@
       2.400133,
       15278.388672
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -246,7 +246,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -259,7 +259,7 @@
       2.39999,
       15239.566406
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -269,7 +269,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -282,7 +282,7 @@
       2.400066,
       15236.327148
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -292,7 +292,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -305,7 +305,7 @@
       2.400001,
       15221.356445
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -315,7 +315,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -328,7 +328,7 @@
       2.400036,
       15188.02832
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -338,7 +338,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -351,7 +351,7 @@
       2.39996,
       15128.874023
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -361,7 +361,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -374,7 +374,7 @@
       2.400119,
       14964.28125
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -384,7 +384,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -397,7 +397,7 @@
       2.437039,
       14753.472656
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -407,7 +407,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -420,7 +420,7 @@
       2.399977,
       14511.59082
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -430,7 +430,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -443,7 +443,7 @@
       1.950144,
       14356.094727
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -453,7 +453,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -466,7 +466,7 @@
       1.989967,
       14167.813477
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -476,7 +476,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -489,7 +489,7 @@
       2.400054,
       13923.051758
     ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Icon": "BasicMap\\gui\\images\\warn.paa",
     "Is3DMarker": 0,
     "Colour": [
       255,
@@ -499,7 +499,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": 450,
+    "MaxRenderDistance": 350,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
