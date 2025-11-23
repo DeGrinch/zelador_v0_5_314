@@ -1,0 +1,1 @@
+// A MASTER LIST CAN BE USED FOR ALL THREE OF YOUR SERVER ACCESS LISTS: ban.txt, priority.txt, and whitleist.txt 
