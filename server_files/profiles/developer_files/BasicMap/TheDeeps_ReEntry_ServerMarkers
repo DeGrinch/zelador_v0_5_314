@@ -6,7 +6,7 @@
       30.974934,
       13861.567383
     ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
+    "Icon": "DZ\\gear\\navigation\\data\\map_border_cross_ca.paa",
     "Is3DMarker": 1,
     "Colour": [
       255,
@@ -16,7 +16,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": -1,
+    "MaxRenderDistance": 2100,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -29,7 +29,7 @@
       30.950081,
       14145.119141
     ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
+    "Icon": "DZ\\gear\\navigation\\data\\map_border_cross_ca.paa",
     "Is3DMarker": 1,
     "Colour": [
       170,
@@ -39,7 +39,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": -1,
+    "MaxRenderDistance": 2100,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -52,7 +52,7 @@
       30.400066,
       11328.672852
     ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
+    "Icon": "DZ\\gear\\navigation\\data\\map_border_cross_ca.paa",
     "Is3DMarker": 1,
     "Colour": [
       0,
@@ -62,7 +62,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": -1,
+    "MaxRenderDistance": 2100,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -75,7 +75,7 @@
       30.950005,
       9083.124023
     ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
+    "Icon": "DZ\\gear\\navigation\\data\\map_border_cross_ca.paa",
     "Is3DMarker": 1,
     "Colour": [
       0,
@@ -85,7 +85,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": -1,
+    "MaxRenderDistance": 2100,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -98,7 +98,7 @@
       30.694894,
       8134.311523
     ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
+    "Icon": "DZ\\gear\\navigation\\data\\map_border_cross_ca.paa",
     "Is3DMarker": 1,
     "Colour": [
       64,
@@ -108,7 +108,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": -1,
+    "MaxRenderDistance": 2100,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -121,7 +121,7 @@
       30.974895,
       7443.020508
     ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
+    "Icon": "DZ\\gear\\navigation\\data\\map_border_cross_ca.paa",
     "Is3DMarker": 1,
     "Colour": [
       128,
@@ -131,7 +131,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": -1,
+    "MaxRenderDistance": 2100,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -144,7 +144,7 @@
       30.974914,
       8667.417969
     ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
+    "Icon": "DZ\\gear\\navigation\\data\\map_border_cross_ca.paa",
     "Is3DMarker": 1,
     "Colour": [
       96,
@@ -154,7 +154,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": -1,
+    "MaxRenderDistance": 2100,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -167,7 +167,7 @@
       30.974891,
       10383.825195
     ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
+    "Icon": "DZ\\gear\\navigation\\data\\map_border_cross_ca.paa",
     "Is3DMarker": 1,
     "Colour": [
       32,
@@ -177,7 +177,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": -1,
+    "MaxRenderDistance": 2100,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -190,7 +190,7 @@
       30.974953,
       12011.37207
     ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
+    "Icon": "DZ\\gear\\navigation\\data\\map_border_cross_ca.paa",
     "Is3DMarker": 1,
     "Colour": [
       0,
@@ -200,7 +200,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": -1,
+    "MaxRenderDistance": 2100,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
@@ -213,7 +213,7 @@
       30.974939,
       14576.102539
     ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
+    "Icon": "DZ\\gear\\navigation\\data\\map_border_cross_ca.paa",
     "Is3DMarker": 1,
     "Colour": [
       128,
@@ -223,7 +223,7 @@
     "Alpha": 240,
     "HideOnPanel": 0,
     "HideOnMap": 0,
-    "MaxRenderDistance": -1,
+    "MaxRenderDistance": 2100,
     "MinRenderDistance": -1,
     "MapToShowOn": "zelador_v0_5_314",
     "CanEdit": 0,
