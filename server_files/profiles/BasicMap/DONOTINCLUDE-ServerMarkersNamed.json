@@ -1,741 +1,93 @@
-[
-  {
-    "Name": "THE DEEPS - NORTH",
-    "Pos": [
-      9254.62207,
-      30.974934,
-      13861.567383
-    ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      0,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "THE DEEPS - NORTH EAST",
-    "Pos": [
-      11648.844727,
-      30.950081,
-      14145.119141
-    ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      170,
-      0,
-      85
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "THE DEEPS - EAST",
-    "Pos": [
-      11517.072266,
-      30.400066,
-      11328.672852
-    ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      0,
-      0,
-      255
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "THE DEEPS - SOUTH EAST ONE",
-    "Pos": [
-      10508.84082,
-      30.950005,
-      9083.124023
-    ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      0,
-      0,
-      170
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "THE DEEPS - SOUTH EAST TWO",
-    "Pos": [
-      8714.417969,
-      30.694894,
-      8134.311523
-    ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      64,
-      0,
-      128
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "THE DEEPS - SOUTH",
-    "Pos": [
-      6655.539551,
-      30.974895,
-      7443.020508
-    ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      128,
-      0,
-      128
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "THE DEEPS - SOUTH WEST ONE",
-    "Pos": [
-      6645.291504,
-      30.974914,
-      8667.417969
-    ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      96,
-      32,
-      64
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "THE DEEPS - SOUTH WEST TWO",
-    "Pos": [
-      6335.032715,
-      30.974891,
-      10383.825195
-    ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      32,
-      96,
-      32
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "THE DEEPS - WEST",
-    "Pos": [
-      6213.476074,
-      30.974953,
-      12011.37207
-    ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      0,
-      255,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "THE DEEPS - NORTH WEST",
-    "Pos": [
-      6370.664063,
-      30.974939,
-      14576.102539
-    ],
-    "Icon": "BasicMap\\gui\\images\\marker.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      128,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
+DEVELOPER REFERENCE — ORIGINAL → NEW NAME MAPPING  
+POSITIONS INCLUDED  
+(Do NOT place this file inside any JSON used by the mod.)
 
-### ALL ENTIES BELOW ARE TO BE NAMED SIMPLY "GAS" ###
-  
-  {
-    "Name": "NORTH RE ENTRY",
-    "Pos": [
-      9435.120117,
-      6.939322,
-      13835.072266
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthEastDeepsDivision1",
-    "Pos": [
-      10542.858398,
-      2.400051,
-      14526.136719
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthEastDeepsDivision2",
-    "Pos": [
-      10586.241211,
-      2.400032,
-      14638.981445
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthEastDeepsDivision3",
-    "Pos": [
-      10481.974609,
-      2.479959,
-      14802.445313
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap",
-    "Pos": [
-      10406.370117,
-      2.519885,
-      14965.541016
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap1",
-    "Pos": [
-      10397.18457,
-      2.399998,
-      15139.772461
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap2",
-    "Pos": [
-      10576.130859,
-      2.399941,
-      15224.323242
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap3",
-    "Pos": [
-      10760.436523,
-      2.400062,
-      15250.202148
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap4",
-    "Pos": [
-      10919.307617,
-      2.424917,
-      15291.858398
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap5",
-    "Pos": [
-      11013.540039,
-      2.400066,
-      15286.188477
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap6",
-    "Pos": [
-      11112.764648,
-      2.400133,
-      15278.388672
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap7",
-    "Pos": [
-      11209.929688,
-      2.39999,
-      15239.566406
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap8",
-    "Pos": [
-      11298.9375,
-      2.400066,
-      15236.327148
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap9",
-    "Pos": [
-      11390.079102,
-      2.400001,
-      15221.356445
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap10",
-    "Pos": [
-      11471.19043,
-      2.400036,
-      15188.02832
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap11",
-    "Pos": [
-      11530.914063,
-      2.39996,
-      15128.874023
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap12",
-    "Pos": [
-      11574.727539,
-      2.400119,
-      14964.28125
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap13",
-    "Pos": [
-      11586.037109,
-      2.437039,
-      14753.472656
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "NorthZooIslandWrap15",
-    "Pos": [
-      11669.618164,
-      2.399977,
-      14511.59082
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "DeepsKaylieCavernsEntrance",
-    "Pos": [
-      11847.669922,
-      1.950144,
-      14356.094727
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "DeepsZooMainNorthExitKaylieCavern",
-    "Pos": [
-      11699.177734,
-      1.989967,
-      14167.813477
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  },
-  {
-    "Name": "DeepsZooMainsSouthCaverns",
-    "Pos": [
-      11486.363281,
-      2.400054,
-      13923.051758
-    ],
-    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
-    "Is3DMarker": 1,
-    "Colour": [
-      255,
-      128,
-      0
-    ],
-    "Alpha": 240,
-    "HideOnPanel": 0,
-    "HideOnMap": 0,
-    "MaxRenderDistance": -1,
-    "MinRenderDistance": -1,
-    "MapToShowOn": "zelador_v0_5_314",
-    "CanEdit": 0,
-    "Group": "BASICMAP_SERVER"
-  }
-]
+──────────────────────────────────────────────
+
+1.  ORIGINAL: NORTH RE ENTRY
+    NEW NAME: The Deeps - Gassed Zone 1
+    POS: [9435.120117, 6.939322, 13835.072266]
+
+2.  ORIGINAL: NorthEastDeepsDivision1
+    NEW NAME: The Deeps - Gassed Zone 2
+    POS: [10542.858398, 2.400051, 14526.136719]
+
+3.  ORIGINAL: NorthEastDeepsDivision2
+    NEW NAME: The Deeps - Gassed Zone 3
+    POS: [10586.241211, 2.400032, 14638.981445]
+
+4.  ORIGINAL: NorthEastDeepsDivision3
+    NEW NAME: The Deeps - Gassed Zone 4
+    POS: [10481.974609, 2.479959, 14802.445313]
+
+5.  ORIGINAL: NorthZooIslandWrap
+    NEW NAME: The Deeps - Gassed Zone 5
+    POS: [10406.370117, 2.519885, 14965.541016]
+
+6.  ORIGINAL: NorthZooIslandWrap1
+    NEW NAME: The Deeps - Gassed Zone 6
+    POS: [10397.184570, 2.399998, 15139.772461]
+
+7.  ORIGINAL: NorthZooIslandWrap2
+    NEW NAME: The Deeps - Gassed Zone 7
+    POS: [10576.130859, 2.399941, 15224.323242]
+
+8.  ORIGINAL: NorthZooIslandWrap3
+    NEW NAME: The Deeps - Gassed Zone 8
+    POS: [10760.436523, 2.400062, 15250.202148]
+
+9.  ORIGINAL: NorthZooIslandWrap4
+    NEW NAME: The Deeps - Gassed Zone 9
+    POS: [10919.307617, 2.424917, 15291.858398]
+
+10. ORIGINAL: NorthZooIslandWrap5
+    NEW NAME: The Deeps - Gassed Zone 10
+    POS: [11013.540039, 2.400066, 15286.188477]
+
+11. ORIGINAL: NorthZooIslandWrap6
+    NEW NAME: The Deeps - Gassed Zone 11
+    POS: [11112.764648, 2.400133, 15278.388672]
+
+12. ORIGINAL: NorthZooIslandWrap7
+    NEW NAME: The Deeps - Gassed Zone 12
+    POS: [11209.929688, 2.399990, 15239.566406]
+
+13. ORIGINAL: NorthZooIslandWrap8
+    NEW NAME: The Deeps - Gassed Zone 13
+    POS: [11298.937500, 2.400066, 15236.327148]
+
+14. ORIGINAL: NorthZooIslandWrap9
+    NEW NAME: The Deeps - Gassed Zone 14
+    POS: [11390.079102, 2.400001, 15221.356445]
+
+15. ORIGINAL: NorthZooIslandWrap10
+    NEW NAME: The Deeps - Gassed Zone 15
+    POS: [11471.190430, 2.400036, 15188.028320]
+
+16. ORIGINAL: NorthZooIslandWrap11
+    NEW NAME: The Deeps - Gassed Zone 16
+    POS: [11530.914063, 2.399960, 15128.874023]
+
+17. ORIGINAL: NorthZooIslandWrap12
+    NEW NAME: The Deeps - Gassed Zone 17
+    POS: [11574.727539, 2.400119, 14964.281250]
+
+18. ORIGINAL: NorthZooIslandWrap13
+    NEW NAME: The Deeps - Gassed Zone 18
+    POS: [11586.037109, 2.437039, 14753.472656]
+
+19. ORIGINAL: NorthZooIslandWrap15
+    NEW NAME: The Deeps - Gassed Zone 19
+    POS: [11669.618164, 2.399977, 14511.590820]
+
+20. ORIGINAL: DeepsKaylieCavernsEntrance
+    NEW NAME: The Deeps - Gassed Zone 20
+    POS: [11847.669922, 1.950144, 14356.094727]
+
+21. ORIGINAL: DeepsZooMainNorthExitKaylieCavern
+    NEW NAME: The Deeps - Gassed Zone 21
+    POS: [11699.177734, 1.989967, 14167.813477]
+
+22. ORIGINAL: DeepsZooMainsSouthCaverns
+    NEW NAME: The Deeps - Gassed Zone 22
+    POS: [11486.363281, 2.400054, 13923.051758]
