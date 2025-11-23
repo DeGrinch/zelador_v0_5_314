@@ -1,0 +1,508 @@
+[
+  {
+    "Name": "The Deeps - Gassed Zone 1",
+    "Pos": [
+      9435.120117,
+      6.939322,
+      13835.072266
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 2",
+    "Pos": [
+      10542.858398,
+      2.400051,
+      14526.136719
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 3",
+    "Pos": [
+      10586.241211,
+      2.400032,
+      14638.981445
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 4",
+    "Pos": [
+      10481.974609,
+      2.479959,
+      14802.445313
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 5",
+    "Pos": [
+      10406.370117,
+      2.519885,
+      14965.541016
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 6",
+    "Pos": [
+      10397.18457,
+      2.399998,
+      15139.772461
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 7",
+    "Pos": [
+      10576.130859,
+      2.399941,
+      15224.323242
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 8",
+    "Pos": [
+      10760.436523,
+      2.400062,
+      15250.202148
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 9",
+    "Pos": [
+      10919.307617,
+      2.424917,
+      15291.858398
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 10",
+    "Pos": [
+      11013.540039,
+      2.400066,
+      15286.188477
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 11",
+    "Pos": [
+      11112.764648,
+      2.400133,
+      15278.388672
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 12",
+    "Pos": [
+      11209.929688,
+      2.39999,
+      15239.566406
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 13",
+    "Pos": [
+      11298.9375,
+      2.400066,
+      15236.327148
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 14",
+    "Pos": [
+      11390.079102,
+      2.400001,
+      15221.356445
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 15",
+    "Pos": [
+      11471.19043,
+      2.400036,
+      15188.02832
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 16",
+    "Pos": [
+      11530.914063,
+      2.39996,
+      15128.874023
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 17",
+    "Pos": [
+      11574.727539,
+      2.400119,
+      14964.28125
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 18",
+    "Pos": [
+      11586.037109,
+      2.437039,
+      14753.472656
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 19",
+    "Pos": [
+      11669.618164,
+      2.399977,
+      14511.59082
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 20",
+    "Pos": [
+      11847.669922,
+      1.950144,
+      14356.094727
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 21",
+    "Pos": [
+      11699.177734,
+      1.989967,
+      14167.813477
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  },
+  {
+    "Name": "The Deeps - Gassed Zone 22",
+    "Pos": [
+      11486.363281,
+      2.400054,
+      13923.051758
+    ],
+    "Icon": "BasicMap\\gui\\images\\map_rock_ca.paa",
+    "Is3DMarker": 0,
+    "Colour": [
+      255,
+      128,
+      0
+    ],
+    "Alpha": 240,
+    "HideOnPanel": 0,
+    "HideOnMap": 0,
+    "MaxRenderDistance": 450,
+    "MinRenderDistance": -1,
+    "MapToShowOn": "zelador_v0_5_314",
+    "CanEdit": 0,
+    "Group": "BASICMAP_SERVER"
+  }
+]
