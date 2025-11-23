@@ -1,0 +1,584 @@
+{
+  "Areas": [
+    {
+      "AreaName": "The Deeps - Gassed Zone 1",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [9435.120117, 6.939322, 13835.072266],
+        "Radius": 220,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 2",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [10542.858398, 2.400051, 14526.136719],
+        "Radius": 125,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 3",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [10586.241211, 2.400032, 14638.981445],
+        "Radius": 235,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 4",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [10481.974609, 2.479959, 14802.445313],
+        "Radius": 210,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 5",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [10406.370117, 2.519885, 14965.541016],
+        "Radius": 210,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 6",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [10397.184570, 2.399998, 15139.772461],
+        "Radius": 210,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 7",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [10576.130859, 2.399941, 15224.323242],
+        "Radius": 210,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 8",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [10760.436523, 2.400062, 15250.202148],
+        "Radius": 250,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 9",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [10919.307617, 2.424917, 15291.858398],
+        "Radius": 100,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 10",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11013.540039, 2.400066, 15286.188477],
+        "Radius": 100,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 11",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11112.764648, 2.400133, 15278.388672],
+        "Radius": 100,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 12",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11209.929688, 2.399990, 15239.566406],
+        "Radius": 100,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 13",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11298.937500, 2.400066, 15236.327148],
+        "Radius": 100,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 14",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11390.079102, 2.400001, 15221.356445],
+        "Radius": 100,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 15",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11471.190430, 2.400036, 15188.028320],
+        "Radius": 100,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 16",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11530.914063, 2.399960, 15128.874023],
+        "Radius": 100,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 17",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11574.727539, 2.400119, 14964.281250],
+        "Radius": 250,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 18",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11586.037109, 2.437039, 14753.472656],
+        "Radius": 220,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 19",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11586.037109, 2.437039, 14753.472656],
+        "Radius": 220,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 20",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11669.618164, 2.399977, 14511.590820],
+        "Radius": 325,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 21",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11847.669922, 1.950144, 14356.094727],
+        "Radius": 320,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 22",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11699.177734, 1.989967, 14167.813477],
+        "Radius": 400,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+
+    {
+      "AreaName": "The Deeps - Gassed Zone 23",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [11486.363281, 2.400054, 13923.051758],
+        "Radius": 400,
+        "PosHeight": 30,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 1,
+        "VerticalOffset": 1,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    }
+  ],
+   "SafePositions": [
+    [
+      9046.945313,
+      11672.445313
+    ],
+	
+}
