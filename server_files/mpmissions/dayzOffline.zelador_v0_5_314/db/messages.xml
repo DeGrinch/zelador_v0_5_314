@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<messages>	
+	<message>
+		<delay>2</delay>
+		<onconnect>1</onconnect>
+		<text>Welcome to #name. You are playing the Zelador_v0.5.314 Map</text>
+	</message>
+	<message>
+		<delay>3</delay>
+		<onconnect>1</onconnect>
+		<text>Join our community discord at https://discord.gg/DWXTaEXyUe to report in-game discoveries.</text>
+	</message>
+	<message>
+		<delay>5</delay>
+		<onconnect>1</onconnect>
+		<text>We highly recommend that you also read our `Tourist Handbook` channel in our dev discord.</text>
+	</message>
+	<message>
+		<delay>7</delay>
+		<onconnect>1</onconnect>
+		<text>Enjoying the map? Please consider contributing to development in some way, it's a massive project.</text>
+	</message>
+	<message>
+		<delay>10</delay>
+		<onconnect>1</onconnect>
+		<text>IMPORTANT: SOME BUNKERS can become TRAPS join our dev discord and read the tourist booth. Invite: gg.DWXTaEXyUe</text>
+	</message>
+	<message>
+	<delay>15</delay>
+		<onconnect>1</onconnect>
+		<text>Please be sure you are in the correct discord for the server owner. Do so before you file tickets re: players or rule breakers.</text>
+	</message>
+	<message>
+	<delay>50</delay>
+		<onconnect>1</onconnect>
+		<text>We welcome any feedback, please use discord tickets! https://discord.gg/DWXTaEXyUe</text>
+	</message>
+	<message>
+		<delay>53</delay>
+		<onconnect>1</onconnect>
+		<text>If you are hosting this version of our map, please change messages to suit your community & server information / rules.</text>
+	</message>	
+	<message>
+		<delay>62</delay>
+		<onconnect>1</onconnect>
+		<text>Accepting applications for discord growth team, and dev team roles. Please visit CMOGAMING.COM for more information.</text>
+	</message>	
+	<message>
+		<delay>75</delay>
+		<onconnect>1</onconnect>
+		<text>Please do your part to help the server fun, healthy, happy, and free from toxic interactions.</text>
+	</message>
+	<message>
+		<delay>85</delay>
+		<onconnect>1</onconnect>
+		<text>This map is a WORK IN PROGRESS (WIP) report discoveries at gg.DWXTaEXyUe  NOTE: we do not process complaints.</text>
+	</message>
+	<message>
+		<delay>95</delay>
+		<onconnect>1</onconnect>
+		<text>Be your most entertaining and apocalyptic self, but do not be toxic!</text>
+	</message>
+	<message>
+		<delay>100</delay>
+		<onconnect>1</onconnect>
+		<text>Heading into the NB Series BUNKERS? You probably need a team - ENTER BUNKERS SOLO AT YOUR OWN RISK!</text>
+	</message>
+	<message>
+		<delay>105</delay>
+		<onconnect>1</onconnect>
+		<text>Thank you for helping improve our map! We do Hope you are enjoying your time on Zelador v0.5.314</text>
+	</message>
+	<message>
+		<delay>115</delay>
+		<onconnect>1</onconnect>
+		<text>You may be playing on a publicly hosted community server one that is not operated by the Map Developer.</text>
+	</message>
+	<message>
+		<delay>170</delay>
+		<onconnect>1</onconnect>
+		<text>You are playin on a test-release of a portion of the Zelador map! ~ Created by: DeGrinchy</text>
+	</message>
+	<message>
+		<delay>200</delay>
+		<onconnect>1</onconnect>
+		<text>Not sure what to do? Join our dev Discord: https://discord.gg/DWXTaEXyUe read the Touris Booth!</text>
+	</message>
+	<message>
+		<delay>205</delay>
+		<onconnect>1</onconnect>
+		<text>Did you know you can quickly and easily repair & update your mods. DayZ launcher > mods > right-click modname > repair</text>
+	</message>
+	<message>
+		<delay>210</delay>
+		<onconnect>1</onconnect>
+		<text>Zelador Developer Discord: https://discord.gg/DWXTaEXyUe</text>
+	</message>
+	<message>
+		<delay>215</delay>
+		<onconnect>1</onconnect>
+		<text>BUNKER may require a team. Enter at your own risk! Read Discord Tourist Booth or ask for information in discord.</text>
+	</message>
+	<message>
+		<delay>220</delay>
+		<onconnect>1</onconnect>
+		<text>Zelador is a WIP. Support developments by submitting discoveries, or donate to server costs if you can. discord invite: DWXTaEXyUe</text>
+	</message>
+	<message>
+		<delay>227</delay>
+		<onconnect>1</onconnect>
+		<text>Using ZELADOR in your VOD title will help me a lot and assit in improving map developments, thank you! ~ DeGrinchy</text>
+	</message>
+	<message>
+		<delay>230</delay>
+		<onconnect>1</onconnect>
+		<text>Join our Discord: https://discord.gg/DWXTaEXyUe</text>
+	</message>
+	<message>
+		<delay>235</delay>
+		<onconnect>1</onconnect>
+		<text>Interested in a Test Player Role? Visit cmogaming.com community discord, invite code: DWXTaEXyUe</text>
+	</message>	
+	<message>
+		<deadline>480</deadline>
+		<shutdown>1</shutdown>
+		<text>NOTICE: #name restarting in #tmin minutes or less.</text>
+	</message>
+</messages>

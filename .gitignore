@@ -1,0 +1,9 @@
+scripts/
+gitrepo/
+.ssh/
+.cache/
+*.log
+*.tmp
+.bash_history
+*~
+

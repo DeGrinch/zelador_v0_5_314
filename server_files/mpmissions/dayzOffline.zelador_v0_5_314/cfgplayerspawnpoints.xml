@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<playerspawnpoints>
+	<fresh>
+		<spawn_params>
+			<min_dist_infected>20</min_dist_infected>
+			<max_dist_infected>60</max_dist_infected>
+			<min_dist_player>150</min_dist_player>
+			<max_dist_player>500</max_dist_player>
+			<min_dist_static>0</min_dist_static>
+			<max_dist_static>0</max_dist_static>
+		</spawn_params>
+		<generator_params>
+			<grid_density>40</grid_density>
+			<grid_width>40</grid_width>
+			<grid_height>40</grid_height>
+			<min_dist_static>0</min_dist_static>
+			<max_dist_static>0</max_dist_static>
+			<min_steepness>-45</min_steepness>
+			<max_steepness>45</max_steepness>
+		</generator_params>
+		<group_params>
+			<enablegroups>true</enablegroups>
+			<groups_as_regular>false</groups_as_regular>
+			<lifetime>1800</lifetime>
+			<counter>-1</counter>
+		</group_params>
+		<generator_posbubbles>
+			<group name="spawnlocation1" lifetime="900" counter="-1">
+				<pos x="8304.605469" z="12492.990234" a="-1"/>
+			</group>
+			<group name="spawnlocation2" lifetime="900" counter="-1">
+				<pos x="9233.096680" z="9084.477539" a="-1"/>
+			</group>
+			<group name="spawnlocation3" lifetime="900" counter="-1">
+				<pos x="9339.048828" z="8726.035156" a="-1"/>
+			</group>			
+			<group name="spawnlocation4" lifetime="900" counter="-1">
+				<pos x="9620.490234" z="8865.208008" a="-1"/>
+			</group>
+			<group name="spawnlocation5" lifetime="900" counter="-1">
+				<pos x="8785.814453" z="9192.071289" a="-1"/>
+			</group>			
+			<group name="spawnlocation6" lifetime="900" counter="-1">
+				<pos x="8244.250000" z="8805.738281" a="-1"/>
+			</group>			
+			<group name="spawnlocation7" lifetime="900" counter="-1">
+				<pos x="7620.516602" z="8933.504883" a="-1"/>
+			</group>			
+			<group name="spawnlocation8" lifetime="900" counter="-1">
+				<pos x="7445.109863" z="8219.298828" a="-1"/>
+			</group>		
+			<group name="spawnlocation9" lifetime="900" counter="-1">
+				<pos x="7152.407715" z="9535.407227" a="-1"/>
+			</group>			
+			<group name="spawnlocation10" lifetime="900" counter="-1">
+				<pos x="7510.240234" z="9440.820313" a="-1"/>
+			</group>			
+			<group name="spawnlocation11" lifetime="900" counter="-1">
+				<pos x="8065.964844" z="10119.764648" a="-1"/>
+			</group>			
+			<group name="spawnlocation12" lifetime="900" counter="-1">
+				<pos x="7272.120605" z="10941.981445" a="-1"/>
+			</group>			
+			<group name="spawnlocation13" lifetime="900" counter="-1">
+				<pos x="8036.715332" z="12264.285156" a="-1"/>
+			</group>			
+			<group name="spawnlocation14" lifetime="900" counter="-1">
+				<pos x="8649.872070" z="12526.255859" a="-1"/>
+			</group>		
+			<group name="spawnlocation15" lifetime="900" counter="-1">
+				<pos x="9818.036133" z="11999.706055" a="-1"/>
+			</group>			
+			<group name="spawnlocation16" lifetime="900" counter="-1">
+				<pos x="10555.119141" z="11589.122070" a="-1"/>
+			</group>		
+			<group name="spawnlocation17" lifetime="900" counter="-1">
+				<pos x="10688.552734" z="11141.830078" a="-1"/>
+			</group>			
+			<group name="spawnlocation18" lifetime="900" counter="-1">
+				<pos x="10379.192383" z="10470.932617" a="-1"/>
+			</group>			
+			<group name="spawnlocation19" lifetime="900" counter="-1">
+				<pos x="9789.058594" z="9414.622070" a="-1"/>
+			</group>			
+			<group name="spawnlocation20" lifetime="900" counter="-1">
+				<pos x="9333.239258" z="8724.292969" a="-1"/>
+			</group>
+		</generator_posbubbles>
+	</fresh>
+	<hop>
+		<spawn_params>
+			<min_dist_infected>30.0</min_dist_infected>
+			<max_dist_infected>70.0</max_dist_infected>
+			<min_dist_player>25.0</min_dist_player>
+			<max_dist_player>70.0</max_dist_player>
+			<min_dist_static>0.5</min_dist_static>
+			<max_dist_static>2.0</max_dist_static>
+		</spawn_params>
+		<generator_params>
+			<grid_density>4</grid_density>
+			<grid_width>150</grid_width>
+			<grid_height>150</grid_height>
+			<min_dist_static>0</min_dist_static>
+			<max_dist_static>2</max_dist_static>
+			<min_steepness>-45</min_steepness>
+			<max_steepness>45</max_steepness>
+		</generator_params>
+		<group_params>
+			<enablegroups>false</enablegroups>
+			<groups_as_regular>true</groups_as_regular>
+			<lifetime>1800</lifetime>
+			<counter>-1</counter>
+		</group_params>
+		<generator_posbubbles>
+			<group name="WestIsland">
+				<pos x="3994" z="9055" />
+				<pos x="2569" z="9740" />
+			</group>
+			<group name="WestIslandshore">
+				<pos x="4073" z="14386" />
+				<pos x="3801" z="14160" />
+			</group>
+		</generator_posbubbles>
+	</hop>
+	<travel>
+		<spawn_params>
+			<min_dist_infected>30.0</min_dist_infected>
+			<max_dist_infected>70.0</max_dist_infected>
+			<min_dist_player>25.0</min_dist_player>
+			<max_dist_player>70.0</max_dist_player>
+			<min_dist_static>0.5</min_dist_static>
+			<max_dist_static>2.0</max_dist_static>
+		</spawn_params>
+		<generator_params>
+			<grid_density>4</grid_density>
+			<grid_width>150</grid_width>
+			<grid_height>150</grid_height>
+			<min_dist_static>0</min_dist_static>
+			<max_dist_static>2</max_dist_static>
+			<min_steepness>-45</min_steepness>
+			<max_steepness>45</max_steepness>
+		</generator_params>
+		<group_params>
+			<enablegroups>false</enablegroups>
+			<groups_as_regular>true</groups_as_regular>
+			<lifetime>1800</lifetime>
+			<counter>-1</counter>
+		</group_params>
+		<generator_posbubbles>
+			<group name="WestIsland">
+				<pos x="2125" z="10693" />
+				<pos x="2277" z="11850" />
+			</group>
+			<group name="westislandlighthouse">
+				<pos x="3399" z="14422" />
+				<pos x="3536" z="14463" />
+			</group>
+		</generator_posbubbles>
+	</travel>
+</playerspawnpoints>

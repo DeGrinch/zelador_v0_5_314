@@ -1,0 +1,606 @@
+{
+  "Triggers": [
+    {
+      "Position": [6391.349121, 1.929776, 11157.897461],
+      "Orientation": [66.900002, 0.000000, -0.000000],
+      "Size": [20, 15, 20],
+      "EyeAccommodation": 0.9,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+    {
+      "Position": [6398.348633, 3.099409, 11163.112305],
+      "Orientation": [-28.876938, 0.000000, -0.000000],
+      "Size": [70, 20, 40],
+      "EyeAccommodation": 0.75,
+      "Breadcrumbs": [
+        {
+          "Position": [6411.517578, 3.922767, 11169.976563],
+          "EyeAccommodation": 0.5,
+          "UseRaycast": 0,
+          "Radius": -1
+        },
+        {
+          "Position": [6429.744141, 5.991461, 11176.712891],
+          "EyeAccommodation": 0.25,
+          "UseRaycast": 0,
+          "Radius": -1
+        }
+      ]
+    },
+    {
+      "Position": [6440.430176, -0.695916, 11204.851563],
+      "Orientation": [-0.000000, 0.000000, -0.000000],
+      "Size": [60, 30, 60],
+      "EyeAccommodation": 0,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+    {
+      "Position": [6440.430176, -0.695916, 11204.851563],
+      "Orientation": [-57.496132, 0.000000, -0.000000],
+      "Size": [75, 20, 50],
+      "EyeAccommodation": 0.25,
+      "UseRaycast": 0,
+      "Breadcrumbs": [
+        {
+          "Position": [6470.408203, 1.138497, 11202.955078],
+          "EyeAccommodation": 0.5,
+          "UseRaycast": 0,
+          "Radius": -1
+        },
+        {
+          "Position": [6485.563477, 1.151734, 11194.051758],
+          "EyeAccommodation": 0.7,
+          "UseRaycast": 0,
+          "Radius": -1
+        },
+        {
+          "Position": [6499.716309, 3.236185, 11179.651367],
+          "EyeAccommodation": 0.75,
+          "UseRaycast": 0,
+          "Radius": -1
+        },
+        {
+          "Position": [6506.253418, 3.001390, 11172.540039],
+          "EyeAccommodation": 0.8,
+          "UseRaycast": 0,
+          "Radius": -1
+        },
+        {
+          "Position": [6472.782715, 1.138569, 11202.365234],
+          "EyeAccommodation": 0.85,
+          "UseRaycast": 0,
+          "Radius": -1
+        },
+        {
+          "Position": [6490.467285, 1.151632, 11189.544922],
+          "EyeAccommodation": 0.9,
+          "UseRaycast": 0,
+          "Radius": -1
+        }
+      ]
+    },
+    {
+      "Position": [6504.096680, 3.272310, 11174.518555],
+      "Orientation": [-75.157562, 0.000000, -0.000000],
+      "Size": [35, 20, 35],
+      "EyeAccommodation": 0.8,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "Tempest Market",
+      "Position": [6521.998535, 4.022440, 11085.232422],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [40, 15, 40],
+      "EyeAccommodation": 0.1,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 2
+    },
+	{
+	  "title": "NB1ZW",
+      "Position": [11152.532104625001, 52.5, 10735.92578125],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [186, 65, 160],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1",
+      "Position": [11183.2177735, 52.5, 11005.5202635],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [94, 65, 407],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1A",
+      "Position": [10902.705078, 52.5, 12743.561523],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [25, 65, 25],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1B",
+      "Position": [10839.267578, 52.5, 13053.632813],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [50, 65, 50],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1C",
+      "Position": [11242.898438, 52.5, 11483.435547],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [50, 65, 50],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1D",
+      "Position": [11280.103516, 52.5, 11371.797852],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [50, 65, 50],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1E",
+      "Position": [11231.241211, 52.5, 11358.981445],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [50, 65, 50],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1F",
+      "Position": [10985.002930, 52.5, 12411.044922],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [25, 65, 25],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1G",
+      "Position": [10454.868164, 86, 13590.303711],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [80, 25, 80],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1H",
+      "Position": [10415.860352, 68.453964, 13602.812500],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [30, 25, 30],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1I",
+      "Position": [10405.351563, 82.4388, 13603.734375],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [22, 14, 22],
+      "EyeAccommodation": 0.8,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1J",
+      "Position": [10476.022461, 78, 13587.507813],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [22, 30, 22],
+      "EyeAccommodation": 0.8,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1K",
+      "Position": [10867.574219, 52.5, 12744.159180],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [60, 65, 60],
+      "EyeAccommodation": 0.8,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1L",
+      "Position": [11022.487305, 52.5, 12422.099609],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [50, 65, 50],
+      "EyeAccommodation": 0.8,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1M",
+      "Position": [10963.140625, 52.5, 12861.150391],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [25, 65, 25],
+      "EyeAccommodation": 0.8,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P1N",
+      "Position": [11292.086914, 52.5, 13950.660156],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [100, 85, 100],
+      "EyeAccommodation": 0.8,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },		
+	{
+	  "title": "NB1ZW1P2",
+      "Position": [11200.892334, 52.5, 11251.66699225],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [132, 65, 123],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+    {
+	  "title": "NB1ZW1P3",
+      "Position": [11254.000000, 52.5, 11429.000000],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [242, 65, 421],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+    {
+	  "title": "NB1ZW1P4",
+      "Position": [11316.750, 52.5, 11682.995],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [135, 65, 631],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+    {
+	  "title": "NB1ZW1P5",
+      "Position": [11234, 52.5, 12047],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [263, 65, 274],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+    {
+	  "title": "NB1ZW1P6",
+      "Position": [11111.570313, 52.5, 12254.169922],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [160, 65, 160],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P7",
+      "Position": [11048.448242, 52.5, 12356.906250],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 65, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P8",
+      "Position": [10953.725586, 52.5, 12477.547852],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 65, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P9",
+      "Position": [10899.883789, 52.5, 12568.375000],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 65, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P10",
+      "Position": [10874.097656, 52.5, 12682.366211],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 65, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P10",
+      "Position": [10895.428711, 52.5, 12805.427734],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 65, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P11",
+      "Position": [10919.315430, 52.5, 12925.778320],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 65, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P11",
+      "Position": [10865.437500, 52.5, 12989.192383],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 65, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P12",
+      "Position": [10761.769531, 52.5, 13041.500000],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 65, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P13",
+      "Position": [10750.0, 52.5, 12964.0],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 65, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P14",
+      "Position": [10745.133789, 30, 12913.593750],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 45, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P15",
+      "Position": [10699.558594, 30, 12879.716797],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 35, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P16",
+      "Position": [10705.590820, 30, 12883.793945],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 25, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P17",
+      "Position": [10867.195313, 52.5, 13119.000977],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 65, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P18",
+      "Position": [10961.274414, 52.5, 13096.242188],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 65, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P19",
+      "Position": [10939.482422, 52.5, 13192.593750],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [250, 65, 250],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P20",
+      "Position": [11089.186523, 52.5, 13293.504883],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [90, 65, 90],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P21",
+      "Position": [11134.769531, 52.5, 13369.506836],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [90, 65, 90],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P22",
+      "Position": [11156.434570, 52.5, 13435.881836],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [110, 65, 110],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P23",
+      "Position": [11147.147461, 52.5, 13492.876953],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [110, 65, 110],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P24",
+      "Position": [11101.329102, 35, 13629.998047],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [190, 50, 190],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P25",
+      "Position": [11060.666016, 35, 13500.175781],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [90, 50, 90],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P26",
+      "Position": [10945.327148, 35, 13506.551758],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [160, 50, 160],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P27",
+      "Position": [11125.642578, 35, 13777.179688],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 50, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P28",
+      "Position": [11179.074219, 35, 13858.946289],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [110, 50, 110],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P29",
+      "Position": [11215.939453, 35, 13948.086914],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [110, 50, 110],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P30",
+      "Position": [10786.054688, 35, 13404.620117],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [180, 75, 180],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P31",
+      "Position": [10772.551758, 52.5, 13290.520508],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 85, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P32",
+      "Position": [10678.252930, 52.5, 13334.195313],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 85, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P33",
+      "Position": [10594.580078, 52.5, 13393.947266],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 85, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P34",
+      "Position": [10513.754883, 52.5, 13453.150391],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 85, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P35",
+      "Position": [10442.289063, 52.5, 13516.284180],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [120, 85, 120],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NB1ZW1P36",
+      "Position": [10408.447266, 52.5, 13540.011719],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [100, 85, 100],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NCCSS1",
+      "Position": [10861.416016, 60, 13496.909180],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [40, 25, 40],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NCCSS2",
+      "Position": [10715.583984, 60, 13512.946289],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [33, 10, 33],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    },
+	{
+	  "title": "NCCSS3",
+      "Position": [10715.583984, 60, 13512.946289],
+      "Orientation": [0.000000, 0.000000, -0.000000],
+      "Size": [26, 10, 26],
+      "EyeAccommodation": 0.5,
+      "Breadcrumbs": [],
+      "InterpolationSpeed": 1
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  Zelador Weather Configuration (Vanilla DayZ)
+  - reset="1" : weather persists across restarts (saved state is restored).
+  - Clear skies enforced for 6–8 hours after bad weather.
+  - Rain/fog capped at 2 hours max duration.
+  - Random "electrical storms": lightning & thunder with heavy overcast, may occur with OR without rain.
+-->
+
+<weather reset="1" enable="1">
+
+  <!-- OVERCAST
+       Cloud cover: 0.0 (clear) .. 1.0 (fully overcast).
+       Heavy overcast triggers storm potential.
+       Clear skies last at least 6–8 hours. -->
+  <overcast>
+    <current actual="0.2" time="120" duration="600"/>
+    <limits min="0.0" max="1.0"/>
+    <timelimits min="21600" max="28800"/> <!-- 6–8 hours clear -->
+    <changelimits min="0.01" max="0.05"/>
+  </overcast>
+
+  <!-- RAIN
+       Short, sporadic showers 30m–2h.
+       Only possible when overcast ≥ 0.7, so not every dark sky has rain.
+       Allows dry thunderstorm events. -->
+  <rain>
+    <current actual="0.0" time="60" duration="120"/>
+    <limits min="0.0" max="1.0"/>
+    <timelimits min="1800" max="7200"/> <!-- 30m–2h -->
+    <changelimits min="0.01" max="0.10"/>
+    <thresholds min="0.7" max="1.0" end="120"/>
+  </rain>
+
+  <!-- FOG
+       Light mist or banks, never more than 2h.
+       Clears quickly to maintain playability. -->
+  <fog>
+    <current actual="0.0" time="60" duration="300"/>
+    <limits min="0.0" max="0.2"/>
+    <timelimits min="1800" max="7200"/> <!-- 30m–2h -->
+    <changelimits min="0.01" max="0.05"/>
+  </fog>
+
+  <!-- WIND MAGNITUDE
+       Wind speed variation for immersion.
+       Gentle baseline with occasional gusts. -->
+  <windMagnitude>
+    <current actual="2.0" time="120" duration="240"/>
+    <limits min="0.5" max="6.0"/>
+    <timelimits min="600" max="1800"/>
+    <changelimits min="0.2" max="1.0"/>
+  </windMagnitude>
+
+  <!-- WIND DIRECTION
+       Slow drifting wind direction in radians (-3.14..3.14). -->
+  <windDirection>
+    <current actual="0.0" time="120" duration="240"/>
+    <limits min="-3.14" max="3.14"/>
+    <timelimits min="600" max="1800"/>
+    <changelimits min="-0.5" max="0.5"/>
+  </windDirection>
+
+  <!-- SNOWFALL
+       Disabled for temperate maps (kept at 0). -->
+  <snowfall>
+    <current actual="0.0" time="0" duration="32768"/>
+    <limits min="0.0" max="0.0"/>
+    <timelimits min="300" max="3600"/>
+    <changelimits min="0.0" max="0.0"/>
+    <thresholds min="1.0" max="1.0" end="120"/>
+  </snowfall>
+
+  <!-- STORM
+       Lightning & thunder events.
+       density    : frequency of strikes (0.0–1.0).
+       threshold  : required overcast (dark sky).
+       timeout    : minimum seconds between strikes.
+       With rain   -> classic thunderstorm.
+       Without rain -> "electrical storm" (dark sky, thunder, lightning, no rain). -->
+  <storm density="0.8" threshold="0.75" timeout="90"/>
+
+</weather>
