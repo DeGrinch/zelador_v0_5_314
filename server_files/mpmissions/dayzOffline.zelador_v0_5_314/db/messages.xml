@@ -4,22 +4,22 @@
 	<message>
 		<delay>2</delay>
 		<onconnect>1</onconnect>
-		<text>Welcome to #name. You are playing the Zelador_v0.5.314 Map</text>
+		<text>Welcome to #name: This map is not your average dayz map.</text>
 	</message>
 	<message>
 		<delay>3</delay>
 		<onconnect>1</onconnect>
-		<text>Join our community discord at https://discord.gg/DWXTaEXyUe to report in-game discoveries.</text>
+		<text>Discord can be found: https://discord.gg/DWXTaEXyUe for discoveries & support.</text>
 	</message>
 	<message>
 		<delay>5</delay>
 		<onconnect>1</onconnect>
-		<text>We highly recommend that you also read our `Tourist Handbook` channel in our dev discord.</text>
+		<text>We recommend reading `Tourist Handbook` channel in discord.</text>
 	</message>
 	<message>
 		<delay>7</delay>
 		<onconnect>1</onconnect>
-		<text>Enjoying the map? Please consider contributing to development in some way, it's a massive project.</text>
+		<text>Contribute if you will, by submitting discovery tickets to our dev discord. Invite: gg.DWXTaEXyUe</text>
 	</message>
 	<message>
 		<delay>10</delay>
@@ -29,7 +29,17 @@
 	<message>
 	<delay>15</delay>
 		<onconnect>1</onconnect>
-		<text>Please be sure you are in the correct discord for the server owner. Do so before you file tickets re: players or rule breakers.</text>
+		<text>We now provide a version of our map for community owners to host. Please make sure you submit tickets or enquiries to the correct discord.</text>
+	</message>
+	<message>
+		<delay>20</delay>
+		<onconnect>1</onconnect>
+		<text>Sick? Cooties? No Idea what they mean? We use terje mods we did have a wiki link but it's disabled for some reason. Use google and find more terje mod information online.</text>
+	</message>	
+	<message>
+		<delay>25</delay>
+		<onconnect>1</onconnect>
+		<text>Welcome to #name: Other than NO CHEATING, NO GLITCHING, NO DUPING: THIS SERVER HAS NO RULES.</text>
 	</message>
 	<message>
 	<delay>50</delay>
@@ -39,17 +49,22 @@
 	<message>
 		<delay>53</delay>
 		<onconnect>1</onconnect>
-		<text>If you are hosting this version of our map, please change messages to suit your community & server information / rules.</text>
+		<text>If you are hosting our map change these messages to suit your community & and your discord information.</text>
 	</message>	
 	<message>
 		<delay>62</delay>
 		<onconnect>1</onconnect>
-		<text>Accepting applications for discord growth team, and dev team roles. Please visit CMOGAMING.COM for more information.</text>
+		<text>Accepting applications for discord growth team, and dev team roles. Join our discord or visit CMOGAMING.COM for more information.</text>
+	</message>
+	<message>
+		<delay>70</delay>
+		<onconnect>1</onconnect>
+		<text>Sick? Cooties? No Idea what they mean? Visit: https://tinyurl.com/terje-wiki for icon information and medical treatment data</text>
 	</message>	
 	<message>
 		<delay>75</delay>
 		<onconnect>1</onconnect>
-		<text>Please do your part to help the server fun, healthy, happy, and free from toxic interactions.</text>
+		<text>Please help us keep Zelador toxicity free and a fun time for all.</text>
 	</message>
 	<message>
 		<delay>85</delay>
@@ -69,17 +84,22 @@
 	<message>
 		<delay>105</delay>
 		<onconnect>1</onconnect>
-		<text>Thank you for helping improve our map! We do Hope you are enjoying your time on Zelador v0.5.314</text>
+		<text>Thank you for helping improve our map! We do Hope you are enjoying your time on Zelador</text>
 	</message>
 	<message>
 		<delay>115</delay>
 		<onconnect>1</onconnect>
-		<text>You may be playing on a publicly hosted community server one that is not operated by the Map Developer.</text>
+		<text>Zelador is available to host. You may be on a server that has been modified, and not owned by the Developer - confirm before submitting tickets.</text>
 	</message>
 	<message>
 		<delay>170</delay>
 		<onconnect>1</onconnect>
-		<text>You are playin on a test-release of a portion of the Zelador map! ~ Created by: DeGrinchy</text>
+		<text>You are playin on Freshy Island - a portion of the Zelador map! ~ Created by: DeGrinchy</text>
+	</message>
+	<message>
+		<delay>180</delay>
+		<onconnect>1</onconnect>
+		<text>Sick? Cooties? No Idea what they mean? Visit: https://tinyurl.com/terje-wiki for icon information and medical treatment data</text>
 	</message>
 	<message>
 		<delay>200</delay>
@@ -89,7 +109,7 @@
 	<message>
 		<delay>205</delay>
 		<onconnect>1</onconnect>
-		<text>Did you know you can quickly and easily repair & update your mods. DayZ launcher > mods > right-click modname > repair</text>
+		<text>Quickly and easily repair & update your mods. DayZ launcher > mods > right-click modname > repair</text>
 	</message>
 	<message>
 		<delay>210</delay>
@@ -99,17 +119,12 @@
 	<message>
 		<delay>215</delay>
 		<onconnect>1</onconnect>
-		<text>BUNKER may require a team. Enter at your own risk! Read Discord Tourist Booth or ask for information in discord.</text>
+		<text>BUNKERS may require a team. Enter at your own risk! Read Discord Tourist Booth or ask for information in discord.</text>
 	</message>
 	<message>
 		<delay>220</delay>
 		<onconnect>1</onconnect>
 		<text>Zelador is a WIP. Support developments by submitting discoveries, or donate to server costs if you can. discord invite: DWXTaEXyUe</text>
-	</message>
-	<message>
-		<delay>227</delay>
-		<onconnect>1</onconnect>
-		<text>Using ZELADOR in your VOD title will help me a lot and assit in improving map developments, thank you! ~ DeGrinchy</text>
 	</message>
 	<message>
 		<delay>230</delay>
@@ -120,6 +135,11 @@
 		<delay>235</delay>
 		<onconnect>1</onconnect>
 		<text>Interested in a Test Player Role? Visit cmogaming.com community discord, invite code: DWXTaEXyUe</text>
+	</message>
+	<message>
+		<delay>250</delay>
+		<onconnect>1</onconnect>
+		<text>We host identical servers in the EU and NA regions. Join the server that is best for you.</text>
 	</message>	
 	<message>
 		<deadline>480</deadline>
