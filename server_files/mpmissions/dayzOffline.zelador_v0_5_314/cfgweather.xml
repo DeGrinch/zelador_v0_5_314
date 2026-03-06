@@ -1,83 +1,79 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!--
-  Zelador Weather Configuration (Vanilla DayZ)
-  - reset="1" : weather persists across restarts (saved state is restored).
-  - Clear skies enforced for 6–8 hours after bad weather.
-  - Rain/fog capped at 2 hours max duration.
-  - Random "electrical storms": lightning & thunder with heavy overcast, may occur with OR without rain.
--->
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!-- 'reset' and 'enable' are a bool, and therefore supports: 0/1, true/false, yes/no -->
+<!-- 'reset' controls whether you want to load in the weather from storage or not (false by default) -->
+<!-- 'enable' controls whether this file is enabled or not (true by default) -->
+<weather reset="0" enable="1">
+    <overcast>
+        <!-- Initial conditions of the overcast (target value, time to change, how long will it stay) -->
+        <current actual="0.45" time="120" duration="240" />
+        <!-- What is the range of the overcast value (0..1) -->
+        <limits min="0.07" max="1.0" />
+        <!-- How long does it take to the overcast to change from one value to other (time in seconds) -->
+        <timelimits min="600" max="900" />
+        <!-- How much should the overcast change (0..1) -->
+        <changelimits min="0.0" max="1.0" />
+    </overcast>
 
-<weather reset="1" enable="1">
+    <fog>
+        <!-- Initial conditions of the fog (target value, time to change, how long will it stay) -->
+        <current actual="0.0" time="0" duration="32768" />
+        <!-- What is the range of the fog value (0..1) -->
+        <limits min="0.0" max="0.0" />
+        <!-- How long does it take to the fog to change from one value to other (time in seconds) -->
+        <timelimits min="300" max="3600" />
+        <!-- How much should the fog change (0..1) -->
+        <changelimits min="1.0" max="1.0" />
+    </fog>
 
-  <!-- OVERCAST
-       Cloud cover: 0.0 (clear) .. 1.0 (fully overcast).
-       Heavy overcast triggers storm potential.
-       Clear skies last at least 6–8 hours. -->
-  <overcast>
-    <current actual="0.2" time="120" duration="600"/>
-    <limits min="0.0" max="1.0"/>
-    <timelimits min="21600" max="28800"/> <!-- 6–8 hours clear -->
-    <changelimits min="0.01" max="0.05"/>
-  </overcast>
+    <!-- Rain should always remain at 0 for this world. -->
+    <rain>
+        <!-- Initial conditions of the rain (target value, time to change, how long will it stay), restricted by thresholds (see below) -->
+        <current actual="0.0" time="0" duration="32768" />
+        <!-- What is the range of the rain value (0..1) -->
+        <limits min="0.0" max="0.0" />
+        <!-- How long does it take to the rain to change from one value to other (time in seconds) -->
+        <timelimits min="300" max="3600" />
+        <!-- How much should the rain change (0..1) -->
+        <changelimits min="0.0" max="0.0" />
+        <!-- What range of the overcast value allows the rain to be preset -->
+        <thresholds min="1.0" max="1.0" end="120" />
+    </rain>
 
-  <!-- RAIN
-       Short, sporadic showers 30m–2h.
-       Only possible when overcast ≥ 0.7, so not every dark sky has rain.
-       Allows dry thunderstorm events. -->
-  <rain>
-    <current actual="0.0" time="60" duration="120"/>
-    <limits min="0.0" max="1.0"/>
-    <timelimits min="1800" max="7200"/> <!-- 30m–2h -->
-    <changelimits min="0.01" max="0.10"/>
-    <thresholds min="0.7" max="1.0" end="120"/>
-  </rain>
+    <windMagnitude>
+        <!-- Initial conditions of the wind magnitude -->
+        <current actual="8.0" time="120" duration="240" />
+        <!-- What is the range of the wind magnitude value in m/s -->
+        <limits min="0.0" max="20.0" />
+        <!-- How long does it take to the wind magnitude to change -->
+        <timelimits min="120" max="240" />
+        <!-- How much should the wind change -->
+        <changelimits min="0.0" max="20.0" />
+    </windMagnitude>
 
-  <!-- FOG
-       Light mist or banks, never more than 2h.
-       Clears quickly to maintain playability. -->
-  <fog>
-    <current actual="0.0" time="60" duration="300"/>
-    <limits min="0.0" max="0.2"/>
-    <timelimits min="1800" max="7200"/> <!-- 30m–2h -->
-    <changelimits min="0.01" max="0.05"/>
-  </fog>
+    <windDirection>
+        <!-- Initial conditions of the wind direction -->
+        <current actual="0.0" time="120" duration="240" />
+        <!-- What is the range of the wind direction -->
+        <limits min="-3.14" max="3.14" />
+        <!-- How long does it take to the wind direction to change -->
+        <timelimits min="60" max="120" />
+        <!-- How much should the wind change direction -->
+        <changelimits min="-1.0" max="1.0" />
+    </windDirection>
 
-  <!-- WIND MAGNITUDE
-       Wind speed variation for immersion.
-       Gentle baseline with occasional gusts. -->
-  <windMagnitude>
-    <current actual="2.0" time="120" duration="240"/>
-    <limits min="0.5" max="6.0"/>
-    <timelimits min="600" max="1800"/>
-    <changelimits min="0.2" max="1.0"/>
-  </windMagnitude>
+    <snowfall>
+        <!-- Initial conditions of the snowfall -->
+        <current actual="0.0" time="60" duration="120" />
+        <!-- What is the range of the snowfall value (0..1) -->
+        <limits min="0.0" max="1.0" />
+        <!-- How long does it take to the snowfall to change -->
+        <timelimits min="60" max="120" />
+        <!-- How much should the snowfall change -->
+        <changelimits min="0.0" max="1.0" />
+        <!-- Overcast thresholds -->
+        <thresholds min="0.3" max="1.0" end="60" />
+    </snowfall>
 
-  <!-- WIND DIRECTION
-       Slow drifting wind direction in radians (-3.14..3.14). -->
-  <windDirection>
-    <current actual="0.0" time="120" duration="240"/>
-    <limits min="-3.14" max="3.14"/>
-    <timelimits min="600" max="1800"/>
-    <changelimits min="-0.5" max="0.5"/>
-  </windDirection>
-
-  <!-- SNOWFALL
-       Disabled for temperate maps (kept at 0). -->
-  <snowfall>
-    <current actual="0.0" time="0" duration="32768"/>
-    <limits min="0.0" max="0.0"/>
-    <timelimits min="300" max="3600"/>
-    <changelimits min="0.0" max="0.0"/>
-    <thresholds min="1.0" max="1.0" end="120"/>
-  </snowfall>
-
-  <!-- STORM
-       Lightning & thunder events.
-       density    : frequency of strikes (0.0–1.0).
-       threshold  : required overcast (dark sky).
-       timeout    : minimum seconds between strikes.
-       With rain   -> classic thunderstorm.
-       Without rain -> "electrical storm" (dark sky, thunder, lightning, no rain). -->
-  <storm density="0.8" threshold="0.75" timeout="90"/>
-
+    <!-- Lightning -->
+    <storm density="1.0" threshold="0.98" timeout="45"/>
 </weather>

@@ -13,7 +13,7 @@
       "sprintStaminaModifierCro": 0,
       "staminaWeightLimitThreshold": 10000,
       "staminaMax": 1000,
-      "staminaKgToStaminaPercentPenalty": 0,
+      "staminaKgToStaminaPercentPenalty": 0.15,
       "staminaMinCap": 25,
       "sprintSwimmingStaminaModifier": 1,
       "sprintLadderStaminaModifier": 1,
@@ -41,12 +41,46 @@
     }
   },
   "WorldsData": {
-    "lightingConfig": 2,
+    "lightingConfig": 1,
     "objectSpawnersArr": [],
-    "environmentMinTemps": [-25, -21, -17, -19, 0.5, 1, 1.5, 1, 0.5, -6, -10, -20],
-    "environmentMaxTemps": [-10, -10, -8, -6, 2, 2.5, 3, 1.5, 1, 0.5, -4, -6],
-    "wetnessWeightModifiers": [1, 1, 1.33, 1.66, 2],
-    "playerRestrictedAreaFiles": ["pra/warheadstorage.json"]
+    "environmentMinTemps": [
+      -30,
+      -25,
+      -20,
+      -15,
+      -10,
+      -5,
+      -3,
+      -5,
+      -10,
+      -20,
+      -30,
+      -40
+    ],
+    "environmentMaxTemps": [
+      -1,
+      2,
+      4,
+      8,
+      4,
+      5,
+      2,
+      1.5,
+      1,
+      -5,
+      -15,
+      -25
+    ],
+    "wetnessWeightModifiers": [
+      1,
+      1,
+      1.33,
+      1.66,
+      2
+    ],
+    "playerRestrictedAreaFiles": [
+      "pra/warheadstorage.json"
+    ]
   },
   "BaseBuildingData": {
     "HologramData": {
@@ -60,8 +94,12 @@
       "disableHeightPlacementCheck": false,
       "disableIsUnderwaterCheck": false,
       "disableIsInTerrainCheck": false,
-	  "disableColdAreaPlacementCheck": true,
-      "disallowedTypesInUnderground": ["FenceKit", "TerritoryFlagKit", "WatchtowerKit"]
+      "disableColdAreaPlacementCheck": true,
+      "disallowedTypesInUnderground": [
+        "FenceKit",
+        "TerritoryFlagKit",
+        "WatchtowerKit"
+      ]
     },
     "ConstructionData": {
       "disablePerformRoofCheck": false,
@@ -70,7 +108,7 @@
     }
   },
   "UIData": {
-    "use3DMap": false,
+    "use3DMap": true,
     "HitIndicationData": {
       "hitDirectionOverrideEnabled": false,
       "hitDirectionBehaviour": 1,

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <lists>
+
     <categories>
         <category name="tools"/>
         <category name="containers"/>
@@ -10,11 +11,13 @@
         <category name="books"/>
         <category name="explosives"/>
     </categories>
+
     <tags>
         <tag name="floor"/>
         <tag name="shelves"/>
         <tag name="ground"/>
     </tags>
+
     <usageflags>
         <usage name="Military"/>
         <usage name="Police"/>
@@ -29,11 +32,16 @@
         <usage name="Office"/>
         <usage name="School"/>
         <usage name="Prison"/>
-        <usage name="Lunapark"/>
         <usage name="SeasonalEvent"/>
         <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
         <usage name="Historical"/>
+        <usage name="Tenement"/>
+        <usage name="Civilian"/>
     </usageflags>
+
     <valueflags>
         <value name="Tier1"/>
         <value name="Tier2"/>
@@ -41,4 +49,5 @@
         <value name="Tier4"/>
         <value name="Unique"/>
     </valueflags>
+
 </lists>

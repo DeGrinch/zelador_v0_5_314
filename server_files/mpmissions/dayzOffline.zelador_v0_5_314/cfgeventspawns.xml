@@ -1,40 +1,95 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<!--
+<eventposdef>
 	<event name="VehicleCivilianSedan">
-		<pos x="12071.933594" z="9129.989258" a="317.953339" />
+		<zone smin="1" smax="3" dmin="1" dmax="1" r="2" />
+		<pos x="5322.166504" z="11780.164063" a="-1" />
+		<pos x="5944.791992" z="13152.970703" a="-1" />
+		<pos x="7079.761230" z="14128.869141" a="-1" />
+		<pos x="9069.684570" z="14068.795898" a="-1" />
+		<pos x="10280.961914" z="14271.113281" a="-1" />
+		<pos x="9933.503906" z="14526.780273" a="-1" />
+		<pos x="9641.685547" z="14299.219727" a="-1" />
+		<pos x="9735.683594" z="14184.718750" a="-1" />
 	</event>
-	
 	<event name="VehicleSedan02">
-		<pos x="10569.078124" z="2231.893555" a="233.038239" />
+		<zone smin="1" smax="3" dmin="1" dmax="1" r="2" />
+		<pos x="5964.118652" z="12440.118164" a="-1" />
+		<pos x="5670.280762" z="12201.617188" a="-1" />
+		<pos x="6068.556641" z="13017.619141" a="-1" />
+		<pos x="5777.117188" z="14333.157227" a="-1" />
+		<pos x="7394.668945" z="14366.465820" a="-1" />
+		<pos x="8282.021484" z="13774.862305" a="-1" />
+		<pos x="9677.540039" z="14009.174805" a="-1" />
+		<pos x="10010.591797" z="14425.394531" a="-1" />
+		<pos x="9779.756836" z="14465.206055" a="-1" />
 	</event>
-	
 	<event name="VehicleHatchback02">
-		<pos x="9896.289063" z="1841.832641" a="88.544548" />
-	</event>	
-    <event name="StaticSantaCrash">
-		<zone smin="1" smax="1" dmin="1" dmax="1" r="45" />
-		<pos x="558.859619" z="12918.953125" a="-1" />
-    </event>
+		<zone smin="1" smax="3" dmin="1" dmax="1" r="2" />
+		<pos x="6046.035645" z="12515.657227" a="-1" />
+		<pos x="5919.291504" z="12685.984375" a="-1" />
+		<pos x="5219.797852" z="11002.934570" a="-1" />
+		<pos x="5611.416504" z="13552.770508" a="-1" />
+		<pos x="6430.073242" z="14735.624023" a="-1" />
+		<pos x="7445.193359" z="13717.102539" a="-1" />
+		<pos x="9069.684570" z="14068.795898" a="-1" />
+		<pos x="10307.649414" z="14408.254883" a="-1" />
+		<pos x="9933.597656" z="14636.871094" a="-1" />
+	</event>
 	<event name="StaticChristmasTree">
-		<pos x="6560.29" z="2462.12" a="0.0" />
+		<zone smin="1" smax="3" dmin="1" dmax="1" r="2" />
+		<pos x="10635.777344" z="13719.722656" a="-1" />
+		<pos x="9868.929688" z="12839.402344" a="-1" />
+		<pos x="9193.455078" z="13149.751953" a="-1" />
+		<pos x="8744.606445" z="13057.241211" a="-1" />
+		<pos x="7138.809570" z="13611.932617" a="-1" />
+		<pos x="7029.084961" z="12310.453125" a="-1" />
+		<pos x="6514.053711" z="11765.412109" a="-1" />
+		<pos x="6221.707031" z="10997.194336" a="-1" />
+		<pos x="7628.414551" z="11820.119141" a="-1" />
+		<pos x="8288.711914" z="10482.533203" a="-1" />
+		<pos x="10920.685547" z="14303.104492" a="-1" />
+		<pos x="7095.767578" z="7785.669922" a="-1" />
+		<pos x="8725.682617" z="10555.762695" a="-1" />
+		<pos x="9832.165039" z="10872.602539" a="-1" />
+		<pos x="8901.265625" z="11184.892578" a="-1" />
+		<pos x="6767.969727" z="12851.104492" a="-1" />
+		<pos x="7699.154785" z="12559.084961" a="-1" />
+		<pos x="8932.998047" z="8634.160156" a="-1" />
 	</event>
     <event name="VehicleOffroadHatchback">
-		<pos x="10967.148438" z="5494.307616" a="125.181313" />
+		<zone smin="1" smax="3" dmin="2" dmax="1" r="2" />
+		<pos x="5991.614258" z="9153.458984" a="-1" />
+		<pos x="10043.901367" z="8126.423828" a="-1" />
+		<pos x="8655.225586" z="7647.298340" a="-1" />
+		<pos x="6931.483887" z="7076.450195" a="-1" />
+		<pos x="6203.234375" z="7729.000000" a="-1" />
+		<pos x="6531.486328" z="8139.408691" a="-1" />
+		<pos x="6025.926270" z="9991.923828" a="-1" />
+		<pos x="5396.914551" z="10884.192383" a="-1" />
     </event>
 	<event name="VehicleOffroad02">
-		<pos x="801.2618410" z="1919.863403" a="6.0492851" />
+		<zone smin="1" smax="3" dmin="1" dmax="1" r="2" />
+		<pos x="5775.370117" z="12739.819336" a="-1" />
+		<pos x="9861.052734" z="8060.001465" a="-1" />
+		<pos x="8118.820313" z="7555.133301" a="-1" />
+		<pos x="6385.307129" z="7317.797852" a="-1" />
+		<pos x="6376.520020" z="8407.427734" a="-1" />
+		<pos x="6233.335449" z="9281.026367" a="-1" />
+		<pos x="5719.416992" z="10407.651367" a="-1" />
+		<pos x="5790.580566" z="12040.737305" a="-1" />
     </event>
     <event name="VehicleTruck01">
-		<pos x="2906.678223" z="9736.077148" a="320.966431" />
+		<zone smin="1" smax="3" dmin="1" dmax="1" r="2" />
+		<pos x="10528.305664" z="8373.500000" a="-1" />
+		<pos x="9625.843750" z="7947.894043" a="-1" />
+		<pos x="7553.268555" z="7348.596191" a="-1" />
+		<pos x="6331.914551" z="7670.040527" a="-1" />
+		<pos x="6025.926270" z="9991.923828" a="-1" />
+		<pos x="5396.914551" z="10884.192383" a="-1" />
+		<pos x="6156.787109" z="12857.571289" a="-1" />
 	</event>
-	<event name="StaticTrain">
-		<zone smin="0" smax="0" dmin="1" dmax="2" r="20" />
-    	<pos x="5587.466" z="2063.353" a="0" y="7.75" group="Train_Abandoned_Cherno"/>
-	</event>
--->
-<eventposdef>
 	<event name="AnimalSpider_JustMomma">
-		<zone smin="0" smax="0" dmin="1" dmax="5" r="10" />
+		<zone smin="0" smax="0" dmin="1" dmax="3" r="1" />
 		<pos x="10919.478516" z="15735.245117" a="-1" />
 		<pos x="10048.248047" z="14845.032227" a="-1" />
 		<pos x="10035.601563" z="14369.888672" a="-1" />
@@ -52,7 +107,7 @@
 		<pos x="10088.569336" z="8214.295898" a="-1" />
 	</event>
 	<event name="AnimalSpider_Tare">
-		<zone smin="0" smax="0" dmin="2" dmax="5" r="10" />
+		<zone smin="0" smax="0" dmin="2" dmax="5" r="1" />
 		<pos x="11164.711914" z="15561.264648" a="-1" />
 		<pos x="10076.715820" z="15375.686523" a="-1" />
 		<pos x="10163.524414" z="14382.150391" a="-1" />
@@ -71,7 +126,7 @@
 		<pos x="9703.989258" z="8176.072266" a="-1" />
 	</event>
 	<event name="AnimalSpider_Youth">
-		<zone smin="0" smax="0" dmin="1" dmax="3" r="10" />
+		<zone smin="0" smax="0" dmin="1" dmax="3" r="1" />
 		<pos x="10553.049805" z="15599.768555" a="-1" />
 		<pos x="9786.899414" z="14438.374023" a="-1" />
 		<pos x="9002.065430" z="14292.572266" a="-1" />
@@ -83,12 +138,12 @@
 		<pos x="8502.962891" z="7628.567383" a="-1" />
 	</event>
 	<event name="AnimalSpider_White">
-		<zone smin="0" smax="0" dmin="1" dmax="2" r="10" />
+		<zone smin="0" smax="0" dmin="1" dmax="2" r="1" />
 		<pos x="16182.398438" z="10916.960938" a="-1" />
 		<pos x="15937.447266" z="10530.450195" a="-1" />
 	</event>
 	<event name="AnimalSpider_Syringe">
-		<zone smin="0" smax="0" dmin="2" dmax="3" r="10" />
+		<zone smin="0" smax="0" dmin="2" dmax="3" r="1" />
 		<pos x="10420.978516" z="15388.040039" a="-1" />
 		<pos x="9383.269531" z="14241.725586" a="-1" />
 		<pos x="8520.793945" z="14179.795898" a="-1" />
@@ -98,7 +153,7 @@
 		<pos x="9384.199219" z="7949.413574" a="-1" />
 	</event>
 	<event name="AnimalSpider">
-		<zone smin="0" smax="0" dmin="5" dmax="7" r="10" />
+		<zone smin="0" smax="0" dmin="2" dmax="7" r="1" />
 		<pos x="11738.124023" z="15074.258789" a="-1" />
 		<pos x="11700.851563" z="15365.900391" a="-1" />
 		<pos x="11438.254883" z="15406.352539" a="-1" />
@@ -136,9 +191,50 @@
 		<pos x="6589.089355" z="11647.189453" a="-1" />
 		<pos x="7143.367188" z="12950.529297" a="-1" />
 		<pos x="8761.189453" z="13056.023438" a="-1" />
+		<pos x="8778.946289" z="7724.860352" a="-1" />
+		<pos x="5925.137207" z="9313.560547" a="-1" />
+		<pos x="6056.912109" z="12197.274414" a="-1" />
+		<pos x="6159.534180" z="13087.484375" a="-1" />
+		<pos x="6209.565430" z="13432.108398" a="-1" />
+		<pos x="6334.302734" z="12433.961914" a="-1" />
+		<pos x="7852.581055" z="14029.360352" a="-1" />
+		<pos x="10727.421875" z="14991.975586" a="-1" />
+		<pos x="10772.471680" z="14100.572266" a="-1" />
+		<pos x="11900.513672" z="11982.472656" a="-1" />
+		<pos x="11550.574219" z="10744.848633" a="-1" />
+		<pos x="11849.714844" z="10558.205078" a="-1" />
+		<pos x="14006.552734" z="11716.138672" a="-1" />
+		<pos x="14464.087891" z="12221.180664" a="-1" />
+		<pos x="14401.009766" z="11357.573242" a="-1" />
+		<pos x="14797.287109" z="10597.906250" a="-1" />
+		<pos x="15090.697266" z="7937.458984" a="-1" />
+		<pos x="13584.029297" z="6664.298828" a="-1" />
+		<pos x="13181.666992" z="5505.996094" a="-1" />
+		<pos x="12054.331055" z="6498.699707" a="-1" />
+		<pos x="11684.054688" z="6874.666992" a="-1" />
+		<pos x="11504.270508" z="7640.066895" a="-1" />
+		<pos x="11538.172852" z="7730.689453" a="-1" />
+		<pos x="9441.069336" z="7980.494141" a="-1" />
+		<pos x="7820.222168" z="8367.546875" a="-1" />
+		<pos x="7728.647949" z="8747.488281" a="-1" />
+		<pos x="8355.887695" z="9541.781250" a="-1" />
+		<pos x="7384.236328" z="9143.701172" a="-1" />
+		<pos x="6901.687500" z="8637.275391" a="-1" />
+		<pos x="6733.985352" z="9286.868164" a="-1" />
+		<pos x="6886.924316" z="9675.721680" a="-1" />
+		<pos x="7613.398926" z="9757.857422" a="-1" />
+		<pos x="7155.281738" z="11091.447266" a="-1" />
+		<pos x="6579.762207" z="11651.375977" a="-1" />
+		<pos x="7117.667969" z="13089.267578" a="-1" />
+		<pos x="6306.535156" z="13938.754883" a="-1" />
+		<pos x="6464.176270" z="14430.408203" a="-1" />
+		<pos x="8708.576172" z="12968.607422" a="-1" />
+		<pos x="9254.750000" z="13117.436523" a="-1" />
+		<pos x="9439.706055" z="13453.124023" a="-1" />
+		<pos x="10763.731445" z="13821.180664" a="-1" />
     </event>
     <event name="AnimalCow">
-		<zone smin="0" smax="0" dmin="5" dmax="8" r="3" />
+		<zone smin="0" smax="0" dmin="1" dmax="20" r="1" />
 		<pos x="8553.485352" z="11130.946289" a="-1" />  <!-- Freshy Island From Here -->
 		<pos x="9973.082031" z="10950.579102" a="-1" />
 		<pos x="10450.313477" z="9498.919922" a="-1" />
@@ -216,6 +312,7 @@
 		<pos x="17064.232422" z="8130.968262" a="-1" />  <!-- Twin Island To here -->
 	</event>
 	<event name="AnimalDeer">
+		<zone smin="0" smax="0" dmin="1" dmax="5" r="2" />
 		<pos x="10169.069336" z="13196.485352" a="-1" /> <!-- Freshy Island From Here -->
 		<pos x="10372.293945" z="9825.726563" a="-1" />
 		<pos x="7305.771484" z="11778.457031" a="-1" />
@@ -229,6 +326,7 @@
 		<pos x="13548.154297" z="5446.477539" a="-1" />  <!-- Twin Island To here -->
 	</event>
 	<event name="AnimalRoeDeer">
+		<zone smin="0" smax="0" dmin="1" dmax="5" r="2" />
 		<pos x="8305.993164" z="9848.593750" a="-1" />   <!-- Freshy Island From Here -->
 		<pos x="10687.957031" z="11606.816406" a="-1" />
 		<pos x="9094.320313" z="9152.747070" a="-1" />
@@ -239,7 +337,7 @@
 		<pos x="11278.780273" z="7708.938965" a="-1" />  <!-- Twin Island To here -->
 	</event>
 	<event name="VehicleBoat">
-		<zone smin="7" smax="10" dmin="1" dmax="3" r="2" />
+		<zone smin="5" smax="10" dmin="1" dmax="5" r="2" />
 		<pos x="11909.625000" z="14389.454102" a="-1" />
 		<pos x="12016.386719" z="15041.116211" a="-1" />
 		<pos x="11760.821289" z="15551.290039" a="-1" />
@@ -262,7 +360,7 @@
 		<pos x="10874.427734" z="7363.545898" a="-1" />
 	</event>
 	<event name="AnimalBear">
-		<zone smin="0" smax="0" dmin="5" dmax="10" r="3" />
+		<zone smin="0" smax="0" dmin="1" dmax="20" r="3" />
 		<pos x="10530.012695" z="13167.487305" />
 		<pos x="10579.933594" z="11615.176758" />
 		<pos x="10722.350586" z="12324.483398" />
@@ -342,7 +440,7 @@
 		<pos x="8808.757813" z="13550.006836" />
 	</event>
     <event name="AnimalWolf">
-		<zone smin="0" smax="0" dmin="5" dmax="10" r="2" />
+		<zone smin="0" smax="0" dmin="5" dmax="20" r="2" />
 		<pos x="7630.166504" z="10721.458984" />
 		<pos x="7631.752930" z="10914.682617" />
 		<pos x="7669.270996" z="10993.509766" />
@@ -449,6 +547,7 @@
 		<pos x="9704.884766" z="13705.553711"/>
 	</event>
 	<event name="AnimalWildBoar">
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
         <pos x="15337.370117" z="1605.856689"/>
         <pos x="16787.398438" z="3638.243652"/>
         <pos x="8838.627930" z="13325.060547"/>
@@ -457,8 +556,21 @@
         <pos x="9704.884766" z="13705.553711"/>
         <pos x="8093.747559" z="9165.920898"/>
 	</event>
+    <event name="StaticSantaCrash">
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
+		<pos x="14037.881836" z="8626.857422" a="-1" />
+		<pos x="14143.005859" z="10703.743164" a="-1" />
+		<pos x="13595.186523" z="11674.155273" a="-1" />
+		<pos x="12399.274414" z="10503.488281" a="-1" />
+		<pos x="11421.632813" z="8635.481445" a="-1" />
+		<pos x="11331.327148" z="6859.576172" a="-1" />
+		<pos x="12827.739258" z="9859.253906" a="-1" />
+		<pos x="13895.485352" z="12179.245117" a="-1" />
+		<pos x="14439.256836" z="12316.587891" a="-1" />
+		<pos x="15454.018555" z="9985.114258" a="-1" />
+    </event>
     <event name="StaticBonfire">
-		<zone smin="0" smax="0" dmin="2" dmax="5" r="10" />
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="6453.301758" z="10786.833984" a="-1" />  	<!-- north of tempest castle west -->
 		<pos x="11002.030273" z="13374.170898" a="-1" /> 	<!-- North city Hideaway -->
 		<pos x="9135.981445" z="13322.895508" a="-1" />  	<!-- Next to milli, circle road-->
@@ -470,7 +582,7 @@
 		<pos x="7440.147461" z="9184.397461" a="-1" />   	<!-- Farms north of south city -->
 	</event>	
 	<event name="StaticContaminatedArea">
-		<zone smin="0" smax="0" dmin="7" dmax="15" r="10" />
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="6544" z="13999" />   						<!-- NOOP RESIDENCE -->
 		<pos x="6285" z="13860" />   						<!-- NOOP ADMINISTRATION -->
 		<pos x="6265" z="14057" />   						<!-- NOOP NW WALL BREAK -->
@@ -522,12 +634,13 @@
 		<pos x="8894.010742" y="4.885555" z="11203.801758" />
 
 	</event>
-    <event name="StaticPoliceSituation">
-		<zone smin="0" smax="0" dmin="1" dmax="2" r="20" />
-		
+<!-- 
+   <event name="StaticPoliceSituation">
+		<zone smin="0" smax="0" dmin="1" dmax="2" r="20" />		
     </event>
+-->
 	<event name="StaticMilitaryConvoy">
-		<zone smin="0" smax="0" dmin="5" dmax="10" r="3" />
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="8576.186523" z="12056.195313" a="-50.000000" group="Supply_TwinBridges"/>
 		<pos x="10434.699219" z="12743.545898" a="-90.000000" group="Supply_TwinBridges"/>
 		<pos x="10803.973633" z="9419.373047" a="-90.000000" group="Supply_TwinBridges"/>
@@ -569,72 +682,95 @@
         <pos x="10218.664063" z="13699.355469" a="-90.000000" group="Supply_TwinBridges"/>        <!-- VEE ROAD END -->
 	</event>
 	<event name="StaticMilitaryConvoy_TIBridgeMilitary">
-		<zone smin="0" smax="0" dmin="1" dmax="1" r="10" />
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="14361.700195" z="6066.053711" a="90.000000" group="Supply_TI_BridgeMilitary" />
 	</event>
     <event name="StaticMilitaryConvoy_TISouthGravelYard">
-		<zone smin="0" smax="0" dmin="1" dmax="1" r="10" />
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="13722.331055" z="6272.878906" a="90.000000" group="Abandoned_TI_SouthGravelYard" />
 	</event>
     <event name="StaticMilitaryConvoy_TISnakePassVillage">
-		<zone smin="0" smax="0" dmin="1" dmax="1" r="10" />
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="12879.099609" z="6225.625488" a="90.000000" group="Ambush_TI_SnakePassVillage"/> 
 	</event>
 	<event name="StaticMilitaryConvoy_NB_Bunkers">
-		<zone smin="0" smax="0" dmin="1" dmax="1" r="10" />
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="10871.646484" z="12601.502930" a="90.000000" y="23.742378" group="Ambush_1DWStation"/> <!-- 1DW LOADOUT Station -->
 	</event>
 	<event name="StaticMilitaryConvoy_TwinBridges">
-		<zone smin="0" smax="0" dmin="1" dmax="1" r="10" />
-		<pos x="6806.564941" z="11429.233398" a="60.000000" group="Supply_TwinBridges"/> <!-- Twin Bridges -->
-	</event>
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
+		<pos x="6781.877930" z="11390.803711" a="60.000000" group="Supply_TwinBridges"/> <!-- Twin Bridges -->
+	</event>	
 	<event name="StaticMilitaryConvoy_FIUpperRing">
-		<zone smin="0" smax="0" dmin="1" dmax="1" r="10" />
-		<pos x="9972.05" z="11974.4" a="-110.000000" group="Supply_FIUpperRing"/>	    <!-- Upper Ring OTW Hunting Tower -->
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
+		<pos x="9972.05" z="11974.4" a="-133.052856" group="Supply_FIUpperRing"/>	    <!-- Upper Ring OTW Hunting Tower -->
 	</event>
 	<event name="StaticMilitaryConvoy_TortizCampGroundBackRoad">
 		<pos x="6645.240234" z="12210.678711" a="-174.500000" group="Abandoned_TortizCampGroundBackRoad"/>	    <!-- Tortiz Campground Backroad -->
 	</event>
 	<event name="StaticMilitaryConvoy_NoopMilitaryRoad">
-		<zone smin="0" smax="0" dmin="1" dmax="3" r="10" />
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="7401.645508" z="13419.507813" a="-51.275000" group="Abandoned_NoopMilitaryEast"/>	    <!-- Military Road East -->
 		<pos x="6764.506348" z="13360.101563" a="-115.800000" group="Ambush_NoopMilitaryCentral"/>	    <!-- Military Road Central -->		
 		<pos x="5929.299316" z="13836.567383" a="174.400000" group="Abandoned_NoopMilitaryWest"/>	    <!-- Military Road West -->
 	</event>
 	<event name="StaticMilitaryConvoy_MobileRadarRoad">
-		<zone smin="0" smax="0" dmin="1" dmax="3" r="10" />
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="9089.233398" z="13814.027344" a="135.400000" group="Abandoned_MobileRadarEast"/>	    <!-- Mobile Radar East -->
 		<pos x="8752.568359" z="13825.623047" a="165.650000" group="Ambush_MobileRadarCentral"/>	    <!-- Mobile Radar Central -->
 		<pos x="7941.341309" z="13364.599609" a="-98.000000" group="Abandoned_MobileRadarWest"/>	    <!-- Mobile Radar West -->
 	</event>
 	<event namae="StaticMilitaryConvoy_WestSkirt">
-		<zone smin="1" smax="1" dmin="1" dmax="3" r="10" />
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="6002.718262" z="12439.267578" y="64.841095" a="-98.000000" group="Abandoned_WestSkirt"/>	<!-- Bush Crash Upper Road West -->
 		<pos x="5919.274414" z="12189.564453" y="65.661179" a="-98.000000" group="Abandoned_WestSkirt"/>	<!-- should be a Police situation Upper Road East -->
   	</event>
 	<event name="StaticHeliCrash">
-		<zone smin="0" smax="0" dmin="1" dmax="3" r="10" />
-		<pos x="6083.175293" z="11462.759766" a="-1" /> <!-- lovers leap -->
-		<pos x="8163.043945" z="9292.778320" a="-1" />	<!-- Damn Island -->
-		<pos x="11000.543945" z="11685.043945" a="-1" /> <!-- Dishsoap Tower -->
-		<pos x="10672.596680" z="10458.707031" a="-1" /> <!-- North of containment outpost -->
-		<pos x="10691.975586" z="9438.877930" a="-1" /> <!-- West of containment outpost -->
-		<pos x="9468.103516" z="8793.570313" a="-1" /> <!-- unnammed hill village by skullzenskatsteins island -->
-		<pos x="8350.922852" z="9096.404297" a="-1" /> <!-- Damn-top-road North-end -->
-		<pos x="7380.251953" z="9168.976563" a="-1" /> <!-- Ashen Lookout farms -->
-		<pos x="7643.855957" z="9809.670898" a="-1" /> <!-- FARMVILLE  -->
-		<pos x="6421.308594" z="10880.335938" a="-1" /> <!-- west of tempest towers topside hidden valley -->
-		<pos x="6639.036133" z="11698.226563" a="-1" /> <!-- Twin Brdige Farms fields -->
-		<pos x="6978.161621" z="12724.327148" a="-1" /> <!-- Tortiz Island -->	
-		<pos x="8447.872070" z="13102.551758" a="-1" /> <!-- Military Road -->
-		<pos x="9556.009766" z="13683.895508" a="-1" /> <!-- Milli Island lake west -->
-		<pos x="9320.538086" z="13717.321289" a="-1" /> <!-- Milli island east -->
-		<pos x="8401.714844" z="9863.818359" a="-1" /> <!-- southern outer ring area -->
-		<pos x="8377.340820" z="12354.646484" a="-1" /> <!-- Twin Ponds -->
-		<pos x="10967.178711" z="15028.834961" a="-1" />  <!-- North Zoo Island Central -->
-		<pos x="11455.412109" z="14549.201172" a="-1" /> <!-- North Zoo Island East -->
-		<pos x="10491.300781" z="15050.816406" a="-1" /> <!-- North Zoo Island West Slope -->
-		<pos x="10412.178711" z="11350.092773" a="-1" /> 
+		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
+		<pos x="6083.175293" z="11462.759766" a="-1" />   			<!-- lovers leap -->
+		<pos x="8163.043945" z="9292.778320" a="-1" />	  			<!-- Damn Island -->
+		<pos x="11000.543945" z="11685.043945" a="-1" />  			<!-- Dishsoap Tower -->
+		<pos x="10672.596680" z="10458.707031" a="-1" />  			<!-- North of containment outpost -->
+		<pos x="10691.975586" z="9438.877930" a="-1" />   			<!-- West of containment outpost -->
+		<pos x="9468.103516" z="8793.570313" a="-1" /> 				<!-- unnammed hill village by skullzenskatsteins island -->
+		<pos x="8350.922852" z="9096.404297" a="-1" /> 				<!-- Damn-top-road North-end -->
+		<pos x="7380.251953" z="9168.976563" a="-1" /> 				<!-- Ashen Lookout farms -->
+		<pos x="7643.855957" z="9809.670898" a="-1" /> 				<!-- FARMVILLE  -->
+		<pos x="6421.308594" z="10880.335938" a="-1" /> 			<!-- west of tempest towers topside hidden valley -->
+		<pos x="6639.036133" z="11698.226563" a="-1" /> 			<!-- Twin Brdige Farms fields -->
+		<pos x="6978.161621" z="12724.327148" a="-1" /> 			<!-- Tortiz Island -->	
+		<pos x="8447.872070" z="13102.551758" a="-1" /> 			<!-- Military Road -->
+		<pos x="9556.009766" z="13683.895508" a="-1" /> 			<!-- Milli Island lake west -->
+		<pos x="9320.538086" z="13717.321289" a="-1" /> 			<!-- Milli island east -->
+		<pos x="8401.714844" z="9863.818359" a="-1" />  			<!-- southern outer ring area -->
+		<pos x="8377.340820" z="12354.646484" a="-1" />    			<!-- Twin Ponds -->
+		<pos x="10967.178711" z="15028.834961" a="-1" />   			<!-- North Zoo Island Central -->
+		<pos x="11455.412109" z="14549.201172" a="-1" />   			<!-- North Zoo Island East -->
+		<pos x="10491.300781" z="15050.816406" a="-1" />   			<!-- North Zoo Island West Slope -->
+		<pos x="10412.178711" z="11350.092773" a="-1" />	
+		<pos x="8842.208008" z="14593.974609" a="-1" />       		<!-- the skirt coastal below -->
+		<pos x="9907.176758" z="14489.785156" a="-1" />
+		<pos x="10288.288086" z="15433.502930" a="-1" />
+		<pos x="11348.704102" z="15632.573242" a="-1" />
+		<pos x="11977.810547" z="14946.838867" a="-1" />
+		<pos x="11926.164063" z="13767.065430" a="-1" />
+		<pos x="11684.758789" z="12700.225586" a="-1" />
+		<pos x="12032.379883" z="11884.461914" a="-1" />
+		<pos x="11670.928711" z="10959.367188" a="-1" />
+		<pos x="10228.560547" z="8161.362793" a="-1" />
+		<pos x="9404.562500" z="7770.731445" a="-1" />
+		<pos x="8305.234375" z="7510.963867" a="-1" />
+		<pos x="7314.360840" z="7155.275391" a="-1" />
+		<pos x="6326.025391" z="7205.666016" a="-1" />
+		<pos x="6042.068359" z="8205.611328" a="-1" />
+		<pos x="5882.544922" z="9272.823242" a="-1" />
+		<pos x="5623.254395" z="10259.784180" a="-1" />
+		<pos x="5127.610352" z="11176.794922" a="-1" />
+		<pos x="5521.607910" z="12189.776367" a="-1" />
+		<pos x="5647.948730" z="13240.606445" a="-1" />
+		<pos x="5429.012207" z="14227.927734" a="-1" />
+		<pos x="6131.763184" z="14936.887695" a="-1" />
+		<pos x="7120.687500" z="14807.625977" a="-1" />      	 	<!-- The Skirt Coastal Above -->
 		<!-- luna caps below-->
 		<pos x="10701.421875" z="11202.850586" a="-1" />
 		<pos x="9983.953125" z="9513.267578" a="-1" />
@@ -667,10 +803,7 @@
 		<pos x="7962.750977" z="11353.532227" a="-1" />
 		<pos x="7477.775391" z="9738.96582" a="-1" />
 		<pos x="6782.799805" z="8890.526367" a="-1" />
-		<pos x="6536.050781" z="9267.651367" a="-1" />
-	</event>
-	<event name="StaticHeliCrashTwinIsland">
-		<zone smin="0" smax="0" dmin="1" dmax="3" r="10" />
+		<pos x="6536.050781" z="9267.651367" a="-1" />     <!-- TwinIslands heli crashes Below --> 
 		<pos x="12248.048828" z="10510.571289" a="-1" />
 		<pos x="13189.647461" z="9209.945313" a="-1" />
 		<pos x="13505.961914" z="10021.396484" a="-1" />
@@ -689,17 +822,14 @@
 		<pos x="12291.694336" z="10792.509766" a="-1" />
 	</event>
     <event name="StaticHeliCrashDevilsEye">
-		<zone smin="0" smax="0" dmin="1" dmax="1" r="10" />
-		<pos x="8890.855469" z="11158.508789" a="-1" />
+		<zone smin="0" smax="0" dmin="1" dmax="1" r="1" />
+		<pos x="8688.732422" z="10764.101563" a="-1" />
 		<pos x="8987.606445" z="10242.235352" a="-1" />
 		<pos x="9710.117188" z="10915.470703" a="-1" />
 		<pos x="8965.573242" y="53.027332" z="11662.507813" a="-66.884293" />
 	</event>
-	<event name="StaticAirplaneCrate">
-		<pos x="6100.591309" z="11305.540039" a="-1" />
-	</event>
 	<event name="StaticScientist_Escort">
-		<zone smin="1" smax="1" dmin="1" dmax="1" r="10" />
+		<zone smin="0" smax="0" dmin="1" dmax="2" r="1" />
 		<pos x="14061.795898" y="151.991943" z="8627.646484" a="-1" group="Scientist_escort" /> <!-- TwinIsland Central Mountain Rado Tower -->
 		<pos x="13533.851563" y="9.148023" z="10596.056641" a="-1" group="Scientist_escort" /> <!-- TwinIsland WestEnd RockRidge Canyon road -->
 	</event>
@@ -710,6 +840,19 @@
 		<pos x="16930.476563" y="349.505798" z="10661.499023" a="-1" group="Scientist" /> <!-- HighHat Mountain RTVillage Central NFacing Hilltop Lookout -->
 		<pos x="17026.654297" y="338.825348" z="10440.713867" a="-1" group="Scientist" /> <!-- HighHat Mountain RTVillage Central SFacing Hilltop Lookout -->
 	</event>
+	
+	<event name="StaticAirplaneCrate">
+<!--
+		<pos x="6100.591309" z="11305.540039" a="-1" />
+	</event>
+-->
+
+	<event name="StaticTrain">
+<!--
+		<zone smin="0" smax="0" dmin="1" dmax="2" r="20" />
+    	<pos x="5587.466" z="2063.353" a="0" y="7.75" group="Train_Abandoned_Cherno"/>
+	</event>
+-->
 	<event name="Loot" />
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />

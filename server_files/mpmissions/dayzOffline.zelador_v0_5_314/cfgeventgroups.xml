@@ -273,7 +273,6 @@
 		<child type="StaticObj_Wreck_BMP1_NoPlacement_DE" deloot="1" lootmax="3" lootmin="2" x="44.021" z="14.552" a="307.918"/>
 	</group>
 	<group name="Scientist_Escort">
-		<child type="StaticObj_FrozenScientist_DE" spawnsecondary="false" x="0.000000" z="0.000000" a="0"/>
 		<child type="ScientificBriefcase" spawnsecondary="false" x="0.700000" z="-1.250000" a="180"/>
 		<child type="Land_Wreck_sed02_aban2_red_DE" deloot="1" lootmax="2" lootmin="2" x="-24.291000" z="-42.852000" a="225.025"/>
 		<child type="StaticObj_Wreck_Decal_Small1_DE" spawnsecondary="false" x="-9.291000"  z="-13.423000" a="234.565"/>
@@ -288,7 +287,6 @@
 		<child type="StaticObj_Wreck_Uaz_DE" deloot="1" lootmax="3" lootmin="2" x="125.709000" z="20.056000"  a="325.064"/>
 	</group>
 	<group name="Scientist">
-		<child type="StaticObj_FrozenScientist_DE" spawnsecondary="false" x="0.000000" z="0.000000" a="0"/>
 		<child type="ScientificBriefcase" spawnsecondary="false" x="0.700000" z="-1.250000" a="180"/>
 	</group>
 </eventgroupdef>
