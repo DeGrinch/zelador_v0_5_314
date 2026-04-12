@@ -4,10 +4,13 @@
 
 ## ⚠️ NOTICE
 This repository provides **only the mpmission and CE configuration files** required to host and test **Zelador v0.5.314**.  
-The actual mod PBOs and world data are distributed **exclusively** through the official Steam Workshop release:
+The actual mod PBOs and world data for this version of the map/mod are distributed **exclusively** through the official Steam Workshop release:
 
 👉 **Steam Workshop Page:**  
 [https://steamcommunity.com/sharedfiles/filedetails/?id=3478374445](https://steamcommunity.com/sharedfiles/filedetails/?id=3478374445)
+
+It is important to note that this version of the map/project is available to be hosted on any standalone or community servers.
+This version release is in no way a release or permission to host the primary / main mod named: Zelador
 
 ---
 
