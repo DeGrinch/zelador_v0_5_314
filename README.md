@@ -59,4 +59,4 @@ The **Zelador v0_5_314** release includes:
 
 ## ⚙️ SERVER CONFIGURATION
 
-**Mission Folder Name:**  
+**Mission Folder Name should be:** dayzOffline.zelador_v0_5_314
